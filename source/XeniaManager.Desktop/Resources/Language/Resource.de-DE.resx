@@ -118,695 +118,698 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainWindow_About" xml:space="preserve">
-    <value>O nama</value>
+    <value>Über</value>
   </data>
   <data name="MainWindow_GameLibrary" xml:space="preserve">
-    <value>Biblioteka igara</value>
+    <value>Spielebibliothek</value>
   </data>
   <data name="MainWindow_OpenXenia" xml:space="preserve">
-    <value>Otvori Xeniu</value>
+    <value>Öffne Xenia</value>
   </data>
   <data name="MainWindow_Settings" xml:space="preserve">
-    <value>Postavke</value>
+    <value>Einstellungen</value>
   </data>
   <data name="MainWindow_XeniaSettings" xml:space="preserve">
-    <value>Postavke (Xenia)</value>
+    <value>Einstellungen (Xenia)</value>
   </data>
   <data name="SettingsPage_LanguageSelector" xml:space="preserve">
-    <value>Jezik</value>
+    <value>Sprache</value>
   </data>
   <data name="SettingsPage_LanguageSelectorTooltip" xml:space="preserve">
-    <value>Jezik korisničkog sučelja Xenie Managera</value>
+    <value>Xenia Manager Benutzeroberflächensprache</value>
   </data>
   <data name="SettingsPage_ThemeSelector" xml:space="preserve">
-    <value>Tema</value>
+    <value>Design</value>
   </data>
   <data name="SettingsPage_ThemeSelectorTooltip" xml:space="preserve">
-    <value>Tema koju će Xenia Manager koristiti</value>
+    <value>Designvorlage, die im Xenia Manager genutzt wird</value>
   </data>
   <data name="MainWindow_Manage" xml:space="preserve">
-    <value>Upravljanje</value>
+    <value>Einstellungen verwalten</value>
   </data>
   <data name="ManagePage_Install" xml:space="preserve">
-    <value>Instaliraj</value>
+    <value>Installieren</value>
   </data>
   <data name="ManagePage_Uninstall" xml:space="preserve">
-    <value>Izbriši</value>
+    <value>Deinstallieren</value>
   </data>
   <data name="ManagePage_Update" xml:space="preserve">
-    <value>Ažuriraj</value>
+    <value>Update</value>
   </data>
   <data name="MainWindow_OpenXeniaTooltip" xml:space="preserve">
-    <value>Launch Xenia standalone</value>
+    <value>Xenia als Einzelanwendung ausführen</value>
   </data>
   <data name="MainWindow_GameLibraryTooltip" xml:space="preserve">
-    <value>Otvori svoju knjižnicu igrara</value>
+    <value>Öffne deine Spielebibliothek</value>
   </data>
   <data name="MainWindow_AboutTooltip" xml:space="preserve">
-    <value>Prikazuje informacije o Xenia Manageru</value>
+    <value>Informationen zum Xenia Manager anzeigen</value>
   </data>
   <data name="MainWindow_ManageTooltip" xml:space="preserve">
-    <value>Upravljaj instaliranom Xeniom</value>
+    <value>Installiertes Xenia verwalten</value>
   </data>
   <data name="MainWindow_SettingsTooltip" xml:space="preserve">
-    <value>Otvori postavke Xenia Managera</value>
+    <value>Xenia Manager Einstellungen öffnen</value>
   </data>
   <data name="MainWindow_XeniaSettingsTooltip" xml:space="preserve">
-    <value>Otvori Xenia postavke</value>
+    <value>Xenia Einstellungen öffnen</value>
   </data>
   <data name="ManagePage_XeniaNotInstalled" xml:space="preserve">
-    <value>Nije Instalirano</value>
+    <value>Nicht Installiert</value>
   </data>
   <data name="MessageBox_Success" xml:space="preserve">
-    <value>Uspjeh</value>
+    <value>Erfolgreich</value>
   </data>
   <data name="MessageBox_Error" xml:space="preserve">
-    <value>Greška</value>
+    <value>Fehler</value>
   </data>
   <data name="LibraryGameButton_RemoveGameHeaderText" xml:space="preserve">
-    <value>Izbriši iz Xenia Managera</value>
+    <value>Aus dem Xenia Manager entfernen</value>
   </data>
   <data name="MessageBox_Remove" xml:space="preserve">
-    <value>Ukloni</value>
+    <value>Entfernen</value>
   </data>
   <data name="MessageBox_RemoveGameText" xml:space="preserve">
-    <value>Želite li ukloniti {0}?</value>
+    <value>Möchten Sie {0} entfernen ?</value>
   </data>
   <data name="MessageBox_RemoveGameContentTitle" xml:space="preserve">
-    <value>Ukloni sadržaj {0}</value>
+    <value>{0} Inhalte entfernen</value>
   </data>
   <data name="MessageBox_RemoveGameContentText" xml:space="preserve">
-    <value>Ukloniti mapu sadržaja za {0}?\nOvim će se izbrisati sva instalirana ažuriranja naslova, spremljene igre i povezani sadržaj.</value>
+    <value>Den Inhaltsordner für {0} entfernen?\nDadurch werden alle installierten Titel‑Updates, Spielstände und zugehörigen Inhalte gelöscht.</value>
   </data>
   <data name="OpenFileDialog_SelectGameTitle" xml:space="preserve">
-    <value>Odaberite igru</value>
+    <value>Spiel auswählen</value>
   </data>
   <data name="MessageBox_ConfirmExit" xml:space="preserve">
-    <value>Potvrdi zatvaranje</value>
+    <value>Beenden bestätigen</value>
   </data>
   <data name="MessageBox_AddGameWithDefaultArtworkText" xml:space="preserve">
-    <value>Želite li dodati igru s običnim posterom?
-Pritisnite 'Da' za nastavak ili 'Ne' za otkazivanje.</value>
+    <value>Möchten Sie das Spiel mit dem Standard‑Cover hinzufügen? Drücken Sie "Ja", um fortzufahren, oder "Nein", um abzubrechen.</value>
   </data>
   <data name="MessageBox_UnableFindSelectedGameTitle" xml:space="preserve">
-    <value>Nije moguće pronaći odabranu igru</value>
+    <value>Das ausgewählte Spiel wurde nicht gefunden</value>
   </data>
   <data name="MessageBox_UnableFindSelectedGameText" xml:space="preserve">
-    <value>Nismo mogli pronaći odabranu igru u bazi podataka.\nŽelite li je dodati s zadanim grafičkim elementima (pritisnite "Da") ili pokušati ponovno (pritisnite "Ne")?</value>
+    <value>Das ausgewählte Spiel wurde in der Datenbank nicht gefunden.\nMöchten Sie es mit dem Standard‑Cover hinzufügen ("Ja" drücken) oder erneut versuchen ("Nein" drücken)?</value>
   </data>
   <data name="MessageBox_MissmatchedTitleIdTitle" xml:space="preserve">
-    <value>Neusklađeni ID naslova</value>
+    <value>Nicht übereinstimmende Titel‑ID</value>
   </data>
   <data name="MessageBox_MissmatchedTitleIdText" xml:space="preserve">
-    <value>Detektovani ID naslova ({0}) ne odgovara odabranoj igri ({1}).\nŽelite li ipak nastaviti?</value>
+    <value>Die erkannte Titel-ID ({0}) stimmt nicht mit dem ausgewählten Spiel ({1}) überein.\nTrotzdem fortfahren?</value>
   </data>
   <data name="SnackbarPresenter_XeniaUpdateAvailableTitle" xml:space="preserve">
-    <value>Xenia ima novo ažuriranje</value>
+    <value>Xenia hat ein neues Update.</value>
   </data>
   <data name="SnackbarPresenter_XeniaUpdateAvailableText" xml:space="preserve">
-    <value>Otvorite "Upravljanje" za ažuriranje ovih verzija Xenie na novu verziju:</value>
+    <value>Öffnen Sie die Seite  "Verwalten", um diese Xenia Versionen auf die neue Version zu aktualisieren:</value>
   </data>
   <data name="LibraryMenuItemShow_GameTitle" xml:space="preserve">
-    <value>Naslov</value>
+    <value>Title</value>
   </data>
   <data name="LibraryMenuItemShow_CompatibilityRating" xml:space="preserve">
-    <value>Kompatibilnost</value>
+    <value>Kompatibilität</value>
   </data>
   <data name="CompatibilityRating_Playable" xml:space="preserve">
-    <value>Funkcionalno</value>
+    <value>Spielbar</value>
   </data>
   <data name="CompatibilityRating_Loads" xml:space="preserve">
-    <value>Učitljivo</value>
+    <value>Lädt</value>
   </data>
   <data name="CompatibilityRating_Gameplay" xml:space="preserve">
-    <value>Igrivo</value>
+    <value>Gameplay</value>
   </data>
   <data name="CompatibilityRating_Unplayable" xml:space="preserve">
-    <value>Neigrivo</value>
+    <value>Unspielbar</value>
   </data>
   <data name="CompatibilityRating_Unknown" xml:space="preserve">
-    <value>Nepoznato</value>
+    <value>Unbekannt</value>
   </data>
   <data name="LibraryGameButton_PatchesMenuText" xml:space="preserve">
-    <value>Zakrpe</value>
+    <value>Patches</value>
   </data>
   <data name="LibraryGameButton_InstallPatches" xml:space="preserve">
-    <value>Instaliraj zakrpe</value>
+    <value>Patches installieren</value>
   </data>
   <data name="LibraryGameButton_DownloadPatches" xml:space="preserve">
-    <value>Preuzimanje zakrpa</value>
+    <value>Patches herunterladen</value>
   </data>
   <data name="LibraryGameButton_AddAdditionalPatches" xml:space="preserve">
-    <value>Dodajte dodatne zakrpe</value>
+    <value>Zusätzliche Patches hinzufügen</value>
   </data>
   <data name="LibraryGameButton_ConfigurePatches" xml:space="preserve">
-    <value>Konfiguriraj zakrpe</value>
+    <value>Patches konfigurieren</value>
   </data>
   <data name="LibraryGameButton_RemovePatches" xml:space="preserve">
-    <value>Izbriši Zakrpe</value>
+    <value>Patches entfernen</value>
   </data>
   <data name="LibraryGameButton_ContentMenuText" xml:space="preserve">
-    <value>Sadržaj</value>
+    <value>Inhalt</value>
   </data>
   <data name="LibraryGameButton_InstallContent" xml:space="preserve">
-    <value>Instaliraj sadržaj</value>
+    <value>Inhalt installieren</value>
   </data>
   <data name="LibraryGameButton_ViewContent" xml:space="preserve">
-    <value>Pogledaj sadržaj</value>
+    <value>Inhalt anzeigen</value>
   </data>
   <data name="LibraryGameButton_OpenCompatibilityPage" xml:space="preserve">
-    <value>Otvori stranicu kompatibilnosti</value>
+    <value>Kompatibilitätsseite öffnen</value>
   </data>
   <data name="LibraryGameButton_EditGameDetails" xml:space="preserve">
-    <value>Informacije</value>
+    <value>Info</value>
   </data>
   <data name="LibraryGameButton_ShortcutMenuText" xml:space="preserve">
-    <value>Kreiraj prečac</value>
+    <value>Verknüpfung erstellen</value>
   </data>
   <data name="LibraryGameButton_DesktopShortcut" xml:space="preserve">
-    <value>Radna Površina</value>
+    <value>Desktop</value>
   </data>
   <data name="LibraryGameButton_SteamShortcut" xml:space="preserve">
     <value>Steam</value>
   </data>
   <data name="LibraryGameButton_LocationMenuText" xml:space="preserve">
-    <value>Emulator i put igre</value>
+    <value>Emulator &amp; Spielpfad</value>
   </data>
   <data name="LibraryGameButton_ChangeGamePath" xml:space="preserve">
-    <value>Promijeni putanju igre</value>
+    <value>Spielpfad ändern</value>
   </data>
   <data name="XeniaSettingsPage_AudioSettingsTitleText" xml:space="preserve">
-    <value>Zvuk</value>
+    <value>Audio</value>
   </data>
   <data name="Searchbar_PlaceholderText" xml:space="preserve">
-    <value>Pretraga</value>
+    <value>Suche</value>
   </data>
   <data name="XeniaSettingsPage_DisplaySettingsTitleText" xml:space="preserve">
-    <value>Zaslon</value>
+    <value>Display</value>
   </data>
   <data name="XeniaSettingsPage_GraphicalSettingsTitleText" xml:space="preserve">
-    <value>Grafika</value>
+    <value>Grafik</value>
   </data>
   <data name="XeniaSettingsPage_GeneralSettingsTitleText" xml:space="preserve">
-    <value>Općenito</value>
+    <value>Allgemein</value>
   </data>
   <data name="XeniaSettingsPage_UserInputSettingsTitleText" xml:space="preserve">
-    <value>Korisnički Unos</value>
+    <value>Benutzereingabe</value>
   </data>
   <data name="XeniaSettingsPage_StorageSettingsTitleText" xml:space="preserve">
-    <value>Pohrana</value>
+    <value>Speicher</value>
   </data>
   <data name="XeniaSettingsPage_HackSettingsTitleText" xml:space="preserve">
-    <value>Hakovi</value>
+    <value>Hacks</value>
   </data>
   <data name="XeniaSettingsPage_AudioSystemSettingText" xml:space="preserve">
-    <value>Zvučni Sistem</value>
+    <value>Audiosystem</value>
   </data>
   <data name="XeniaSettingsPage_AudioSystemSettingTooltip" xml:space="preserve">
-    <value>Zvučni sistem</value>
+    <value>Audiosystem</value>
   </data>
   <data name="XeniaSettingsPage_AudioMaxQueuedFramesSettingText" xml:space="preserve">
-    <value>Maksimalni broj okvira čekanja</value>
+    <value>Maximale Anzahl wartender Frames</value>
   </data>
   <data name="XeniaSettingsPage_AudioMaxQueuedFramesSettingTooltip" xml:space="preserve">
-    <value>Omogućuje promjenu maksimalnog broja čekanja okvira radi smanjenja kašnjenja zvuka
-NAPOMENA: Minimalna vrijednost je 4</value>
+    <value>Ermöglicht das Ändern der maximal gepufferten Audio Frames, um die Audiolatenz zu verringern.
+	HINWEIS: Minimum ist 4.</value>
   </data>
   <data name="XeniaSettingsPage_AudioMuteSettingText" xml:space="preserve">
-    <value>Isključi Zvuk</value>
+    <value>Stumm</value>
   </data>
   <data name="XeniaSettingsPage_AudioMuteSettingTooltip" xml:space="preserve">
-    <value>Isključuje zvuk kod svih zvučnih izlaza</value>
+    <value>Schaltet die gesamte Audioausgabe stumm</value>
   </data>
   <data name="XeniaSettingsPage_AudioXmpSettingText" xml:space="preserve">
     <value>XMP</value>
   </data>
   <data name="XeniaSettingsPage_AudioXmpSettingTooltip" xml:space="preserve">
-    <value>Omogućuje reprodukciju glazbenog playera
-Ovo može popraviti glazbu u nekim igrama</value>
+    <value>„Aktiviert die Musikwiedergabe über den Musikplayer. 
+	Dies kann die Musik in einigen Spielen reparieren.</value>
   </data>
   <data name="XeniaSettingsPage_AudioUseDedicatedXmaThreadSettingText" xml:space="preserve">
-    <value>Namjenska XMA Nit</value>
+    <value>Dedizierter XMA Thread</value>
   </data>
   <data name="XeniaSettingsPage_AudioUseDedicatedXmaThreadSettingTooltip" xml:space="preserve">
-    <value>Omogućuje XMA dekodiranje u zasebnoj niti
-Ako je ova opcija onemogućena, očekujte bolje rezultate, ali niže performanse</value>
+    <value>Aktiviert die XMA Dekodierung in einem separaten Thread.
+	Wenn diese Option deaktiviert ist, sind zwar bessere Ergebnisse zu erwarten, jedoch bei geringerer Leistung.</value>
   </data>
   <data name="XeniaSettingsPage_AudioXmaDecoderSettingText" xml:space="preserve">
-    <value>XMA Audio Dekoder (eksperimentalno)</value>
+    <value>XMA Audiodecoder 
+	(experimentell)</value>
   </data>
   <data name="XeniaSettingsPage_AudioXmaDecoderSettingTooltip" xml:space="preserve">
-    <value>Omogućuje korištenje novog XMA audio dekodera</value>
+    <value>Aktiviert die Verwendung des neuen XMA‑Audiodecoders</value>
   </data>
   <data name="XeniaSettingsPage_AudioXmpVolumeSettingText" xml:space="preserve">
-    <value>Zadana Glasnoća XMP-a</value>
+    <value>XMP Standardlautstärke</value>
   </data>
   <data name="XeniaSettingsPage_AudioXmpVolumeSettingTooltip" xml:space="preserve">
-    <value>Zadana glasnoća glazbe ako je igra ne postavi</value>
+    <value>Standard Musiklautstärke, falls das Spiel keinen Wert vorgibt</value>
   </data>
   <data name="XeniaSettingsPage_DisplayFullscreenSettingText" xml:space="preserve">
-    <value>Cijeli Zaslon</value>
+    <value>Vollbild</value>
   </data>
   <data name="XeniaSettingsPage_DisplayFullscreenSettingTooltip" xml:space="preserve">
-    <value>Otvara emulator preko cijelog zaslona kada je omogućen</value>
+    <value>Öffnet den Emulator im Vollbildmodus, wenn aktiviert</value>
   </data>
   <data name="XeniaSettingsPage_DisplayInternalResolutionSettingText" xml:space="preserve">
-    <value>Interna Rezolucija Zaslona</value>
+    <value>Interne Bildschirmauflösung</value>
   </data>
   <data name="XeniaSettingsPage_DisplayInternalResolutionSettingTooltip" xml:space="preserve">
-    <value>Omogućuje renderiranje igre koja podržava različite rezolucije u određenoj rezoluciji.
-NAPOMENA: Igra mora podržavati tu rezoluciju da bi ovo radilo. 1280x720 će raditi u gotovo svakoj igri.</value>
+    <value>„Ermöglicht es, Spiele mit Unterstützung für verschiedene Auflösungen in einer festgelegten Auflösung zu rendern.
+	HINWEIS: Das Spiel muss die gewählte Auflösung tatsächlich unterstützen, damit diese Option funktioniert. 1280×720 wird in so gut wie jedem Spiel funktionieren.</value>
   </data>
   <data name="XeniaSettingsPage_DisplayCustomInternalResolutionWidthSettingText" xml:space="preserve">
-    <value>Širina Interne Rezolucije Zaslona</value>
+    <value>Breite der internen Bildschirmauflösung</value>
   </data>
   <data name="XeniaSettingsPage_DisplayCustomInternalResolutionHeightSettingText" xml:space="preserve">
-    <value>Visina Interne Rezolucije Zaslona</value>
+    <value>Höhe der internen Bildschirmauflösung</value>
   </data>
   <data name="XeniaSettingsPage_DisplayCustomInternalResolutionWidthSettingTooltip" xml:space="preserve">
-    <value>Širina: 1-1920</value>
+    <value>Unterstützt: 1–1920</value>
   </data>
   <data name="XeniaSettingsPage_DisplayCustomInternalResolutionHeightSettingTooltip" xml:space="preserve">
-    <value>Podržano: 1-1080</value>
+    <value>Unterstützt: 1-1080</value>
   </data>
   <data name="XeniaSettingsPage_DisplayLetterboxSettingText" xml:space="preserve">
-    <value>Letterbox Prikaz</value>
+    <value>Letterbox</value>
   </data>
   <data name="XeniaSettingsPage_DisplayLetterboxSettingTooltip" xml:space="preserve">
-    <value>Omogućuje crne trake
-(Letterboxing/Pillarboxing)</value>
+    <value>Aktiviert schwarze Balken
+	(Letterboxing/Pillarboxing)</value>
   </data>
   <data name="XeniaSettingsPage_DisplayWidescreenSettingText" xml:space="preserve">
-    <value>Široki Zaslon</value>
+    <value>Breitbild</value>
   </data>
   <data name="XeniaSettingsPage_DisplayWidescreenSettingTooltip" xml:space="preserve">
-    <value>Prebacuje se između omjera slike 16:9 i 4:3
-NAPOMENA: Rezolucije ispod 1280x720 rade s omjerom slike 4:3</value>
+    <value>Wechselt zwischen dem Seitenverhältnis 16:9 und 4:3.
+	HINWEIS: Auflösungen unter 1280×720 werden im Seitenverhältnis 4:3 ausgeführt.</value>
   </data>
   <data name="XeniaSettingsPage_DisplayVSyncSettingText" xml:space="preserve">
-    <value>Vertikalna sinkronizacija</value>
+    <value>Vertikale Synchronisation</value>
   </data>
   <data name="XeniaSettingsPage_DisplayVSyncSettingTooltip" xml:space="preserve">
-    <value>Omogućuje vertikalnu sinkronizaciju</value>
+    <value>Aktiviert die vertikale Synchronisation</value>
   </data>
   <data name="XeniaSettingsPage_DisplayFramerateLimitSettingText" xml:space="preserve">
-    <value>Ograničenje broja sličica po sekundi</value>
+    <value>FPS Limit</value>
   </data>
   <data name="XeniaSettingsPage_DisplayFramerateLimitSettingTooltip" xml:space="preserve">
-    <value>Maksimalan broj sličica u sekundi
-Zadano je 60 kada je postavljeno na 0 i VSYNC je omogućen
-0 = Neograničen broj sličica</value>
+    <value>Maximale Bilder pro Sekunde
+	Standardwert: 60, wenn auf 0 gesetzt und V‑Sync aktiviert ist
+	0 = Unbegrenzte Bildrate</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsGpuApiSettingText" xml:space="preserve">
-    <value>Grafički API</value>
+    <value>Grafik API</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsD3D12VRRSettingText" xml:space="preserve">
-    <value>Varijabilna Brzina Osvježavanja
-(Direct3D 12)</value>
+    <value>Variable Bildwiederholrate
+	(Direct3D 12)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsD3D12VRRSettingTooltip" xml:space="preserve">
-    <value>Trganje Slike i Varijabilna Brzina Osvježavanja</value>
+    <value>Bildzerreißen und Variable Bildwiederholrate</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsD3D12RenderTargetPathSettingText" xml:space="preserve">
-    <value>Ciljna Putanja Renderiranja
-(Direct3D 12)</value>
+    <value>Render Target Pfad
+	(Direct3D 12)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsD3D12RenderTargetPathSettingTooltip" xml:space="preserve">
-    <value>RTV (preporučeno zbog brzine)
-ROV poznat i kao Rasterizirano-uređeni prikazi (za veću točnost u nekim slučajevima ako je dostupno)</value>
+    <value>RTV (Empfohlen für Geschwindigkeit)
+	ROV – Rasterized‑Ordered Views (Für höhere Genauigkeit in bestimmten Fällen, falls verfügbar)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsD3D12QueuePrioritySettingText" xml:space="preserve">
-    <value>Prioritet Reda Čekanja
+    <value>Warteschlangen Priorität
 (Direct3D 12)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsD3D12QueuePrioritySettingTooltip" xml:space="preserve">
-    <value>- Normalno
-- Visoko (zadano, preporučeno za brzinu)
-- Globalno u stvarnom vremenu (Zahtijeva pokretanje Xenia/Xenia Managera kao administrator)</value>
+    <value>- Normal
+- Hoch (Standard, empfohlen für Geschwindigkeit)
+- Globaler Echtzeit‑Modus (Erfordert Ausführung von Xenia/Xenia Manager als Administrator)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsVulkanRenderTargetPathSettingText" xml:space="preserve">
-    <value>Ciljna Putanja Renderiranja
+    <value>Render Target Pfad
 (Vulkan)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsVulkanRenderTargetPathSettingTooltip" xml:space="preserve">
-    <value>- FBO (Preporučeno za brzinu)
-- FSI (Za veću točnost u nekim slučajevima ako je dostupno)</value>
+    <value>- FBO – Schnell (empfohlen)
+- FSI – Höhere Genauigkeit (falls verfügbar)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsVulkanAllowPresentModeIntermediateSettingText" xml:space="preserve">
-    <value>Srednji Trenutni Način Rada 
+    <value>Präsentationsmodus: Mittel
 (Vulkan)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsVulkanAllowPresentModeIntermediateSettingTooltip" xml:space="preserve">
-    <value>Način prikaza s najvišim prioritetom
-Omogućuje način prikaza u trenutku,
-nudeći najnižu latenciju s mogućnošću kidanja slike u određenim slučajevima i promjenjivom brzinom osvježavanja
-NAPOMENA: Ako ovo ne uspije, pokušajte s druga 2 načina prikaza</value>
+    <value>Präsentationsmodus mit höchster Priorität
+	Ermöglicht den sofortigen Präsentationsmodus, bietet die niedrigste Latenz, 
+	kann jedoch in bestimmten Fällen Bildzerreißen (Screen Tearing) verursachen und unterstützt variable Bildwiederholraten.
+	Hinweis: Falls dieser Modus nicht funktioniert, probiere die beiden anderen Präsentationsmodi aus.</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsVulkanAllowPresentModeMailboxSettingText" xml:space="preserve">
-    <value>Trenutni Način Rada Mailbox
+    <value>Präsentationsmodus: Mailbox
 (Vulkan)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsVulkanAllowPresentModeMailboxSettingTooltip" xml:space="preserve">
-    <value>Način prikaza srednjeg prioriteta
-Omogućuje način prikaza poštanskog sandučića (2. prioritet),
-nudeći nisku latenciju bez mogućnosti kidanja
-NAPOMENA: Ako ovo ne uspije, pokušajte s FIFO opuštenim načinom prikaza</value>
+    <value>Präsentationsmodus mit mittlerer Priorität 
+	Ermöglicht den Mailbox‑Präsentationsmodus (zweithöchste Priorität) bietet geringe Latenz ohne die Möglichkeit von Bildzerreißen (Tearing). 
+	Hinweis: Falls dieser Modus nicht funktioniert, probiere den FIFO‑Relaxed‑Präsentationsmodus aus</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsVulkanAllowPresentModeFifoRelaxedSettingText" xml:space="preserve">
-    <value>Opušteni Trenutni Način Rada FIFO
+    <value>Präsentationsmodus: FIFO  Relaxed
 (Vulkan)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsVulkanAllowPresentModeFifoRelaxedSettingTooltip" xml:space="preserve">
-    <value>Način prikaza s najnižim prioritetom
-Omogućuje opušteni način prikaza "prvi unutra, prvi van",
-što uzrokuje čekanje vertikalne sinkronizacije glavnog zaslona,
-ali može uzrokovati trganje slike ako okviri ne zadovoljavaju brzinu osvježavanja glavnog zaslona</value>
+    <value>Präsentationsmodus mit niedrigster Priorität 
+	Ermöglicht den FIFO‑Relaxed‑Präsentationsmodus (First In, First Out – entspannt), 
+	bei dem auf die vertikale Synchronisation des Host‑Displays gewartet wird, 
+	aber Bildzerreißen (Tearing) auftreten kann, wenn die Bildrate die Bildwiederholfrequenz des Host‑Displays nicht erreicht.</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsReadbackResolveSettingText" xml:space="preserve">
-    <value>Rješavanje Povratnog Čitanja</value>
+    <value>Readback Resolve</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsReadbackResolveSettingTooltip" xml:space="preserve">
-    <value>Čitanje rezultata renderiranja u teksturu na CPU-u
-Ovo može biti potrebno u nekim igrama,
-ali uzrokuje sinkronizaciju u sredini kadra, pa ima ogroman utjecaj na performanse</value>
+    <value>Render‑to‑Texture‑Ergebnisse auf der CPU auslesen 
+	Dies kann in manchen Spielen erforderlich sein, 
+	verursacht jedoch eine Synchronisation mitten im Frame, was einen massiven Leistungseinbruch zur Folge hat.</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsDrawResolutionScaleSettingText" xml:space="preserve">
-    <value>Mjerilo Rezolucije Crtanja</value>
+    <value>Zeichenauflösungs‑Skalierung</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsDrawResolutionScaleSettingTooltip" xml:space="preserve">
-    <value>Cjelobrojna skala širine piksela koja se koristi za skaliranje rezolucije renderiranja neprozirno za igru
-1, 2 i 3 su podržani, iako u dokumentaciji ova vrijednost može ići do 7 (8960x5040)
-Ako je postavljeno na 2, rezolucija renderiranja prelazi sa 720p na 1440p, ako je postavljeno na 3 na 4k...
-NAPOMENA: Različiti efekti i dijelovi cjevovoda renderiranja igre mogu raditi neispravno.</value>
+    <value>Ganzzahliger Pixelbreitenskalierungsfaktor, der für die undurchsichtige Skalierung der Rendering Auflösung im Spiel verwendet wird.
+	1, 2 und 3 werden unterstützt, obwohl in der Dokumentation angegeben ist, dass dieser Wert bis zu 7 (8960×5040) betragen kann. 
+	Wenn er auf 2 gesetzt wird, steigt die Renderauflösung von 720p auf 1440p, bei 3 auf 4K...
+	HINWEIS: Verschiedene Effekte und Teile der Rendering-Pipeline des Spiels können möglicherweise nicht korrekt funktionieren.</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsAntiAliasingSettingText" xml:space="preserve">
-    <value>Anti-Aliasing</value>
+    <value>Kantenglättung</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsAntiAliasingSettingTooltip" xml:space="preserve">
-    <value>Efekt anti-aliasinga nakon obrade koji se primjenjuje na sliku iz igre
-Toplo se preporučuje kada je aktivan AMD FidelityFX Contrast Adaptive Sharpening ili Super Resolution 1.0
-- FXAA (NVIDIA Fast Approximate Anti-Aliasing 3.11, unaprijed postavljena normalna kvaliteta)
-- FXAA Extreme (NVIDIA Fast Approximate Anti-Aliasing 3.11, unaprijed postavljena ekstremna kvaliteta)</value>
+    <value>Post-Processing-Kantenglättungseffekt, der auf die Bildausgabe des Spiels angewendet wird. 
+	Wird dringend empfohlen, wenn AMD FidelityFX Contrast Adaptive Sharpening oder Super Resolution 1.0 aktiv ist.
+  - FXAA (NVIDIA Fast Approximate Anti-Aliasing 3.11, Voreinstellung normale Qualität)
+  - FXAA Extreme (NVIDIA Fast Approximate Anti-Aliasing 3.11, Voreinstellung extreme Qualität)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsScalingSharpeningSettingText" xml:space="preserve">
-    <value>Skaliranje i Oštrenje</value>
+    <value>Skalierung &amp; Schärfung</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsScalingSharpeningSettingTooltip" xml:space="preserve">
-    <value>Efekt naknadne obrade koji se koristi za ponovno uzorkovanje i/ili izoštravanje konačnog prikaza
-- Bilinearno (Izvorna slika u omjeru 1:1, jednostavno bilinearno rastezanje za ponovno uzorkovanje)
-- FidelityFX CAS (Koristite AMD FidelityFX Contrast Adaptive Sharpening (CAS) za izoštravanje pri faktorima skaliranja do 2x2, s dodatnim bilinearnim rastezanjem za veće faktore)
-- AMD FSR (Koristite AMD FidelityFX Super Resolution 1.0 (FSR) za povećanje skale najviše kvalitete ili AMD FidelityFX Contrast Adaptive Sharpening za izoštravanje bez skaliranja ili smanjenja uzorkovanja)
-NAPOMENA: Za skaliranje za faktore veće od 2x2, izvode se višestruki FSR prolazci</value>
+    <value>Post-Processing-Effekt zur Verwendung für das Resampling und/oder die Schärfung der endgültigen Bildausgabe
+Bilinear (Originalbild in 1:1, einfaches bilineares Strecken für Resampling)
+FidelityFX CAS (Verwendet AMD FidelityFX Contrast Adaptive Sharpening (CAS) zur Schärfung bei Skalierungsfaktoren bis zu 2×2, mit zusätzlichem bilinearem Strecken bei größeren Faktoren)
+AMD FSR (Verwendet AMD FidelityFX Super Resolution 1.0 (FSR) für hochwertigstes Upscaling oder AMD FidelityFX Contrast Adaptive Sharpening zur Schärfung, wenn keine Skalierung oder ein Downsampling erfolgt)
+HINWEIS: Bei Skalierungsfaktoren von mehr als 2×2 werden mehrere FSR-Durchläufe durchgeführt.</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsFSRSharpnessReductionSettingText" xml:space="preserve">
-    <value>Smanjenje Oštrine FSR-a</value>
+    <value>FSR Schärfungsreduzierung</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsFSRSharpnessReductionSettingTooltip" xml:space="preserve">
-    <value>Smanjenje oštrine za AMD FidelityFX Super Resolution 1.0 (FSR), u stupnjevima
-(Niža oštrina je oštrija)</value>
+    <value>Schärfungsreduzierung für AMD FidelityFX Super Resolution 1.0 (FSR), in Blendenstufen
+	(Niedrigerer Wert = schärfer)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsCASAdditionalSharpnessSettingText" xml:space="preserve">
-    <value>CAS Dodatna Oštrina</value>
+    <value>Zusätzliche Schärfung für CAS</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsCASAdditionalSharpnessSettingTooltip" xml:space="preserve">
-    <value>Dodatna oštrina za AMD FidelityFX Contrast Adaptive Sharpening (CAS)
-(Više je oštrije)</value>
+    <value>Zusätzliche Schärfe für AMD FidelityFX Contrast Adaptive Sharpening (CAS) 
+	(Höherer Wert = schärfer)</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsFSRMaxUpsamlingPassesSettingText" xml:space="preserve">
-    <value>Prolazi za Maksimalno Povećanje FSR-a</value>
+    <value>Maximale Anzahl an Upscaling-Durchläufen FSR</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsFSRMaxUpsamlingPassesSettingTooltip" xml:space="preserve">
-    <value>Maksimalan broj prolaza za povećanje rezolucije izvršenih u AMD FidelityFX Super Resolution 1.0 (FSR) prije vraćanja na bilinearno rastezanje nakon posljednjeg prolaza
-Svaki prolaz povećava rezoluciju samo do 2x2 prethodne veličine
-Ako igra ispisuje sliku od 1280x720, 1 prolaz će je povećati na do 2560x1440 (ispod 4K),
-nakon 2 prolaza bit će povećana na maksimalno 5120x2880 (uključujući 3840x2160 za 4K)...
-Ova varijabla nema učinka ako rezolucija zaslona nije jako visoka,
-ali se može smanjiti na rezolucijama poput 4K ili 8K u slučaju da je utjecaj više prolaza za povećanje rezolucije FSR-a na performanse previsok,
-ili ako su poželjni mekši rubovi
-1 - 4, 4 je maksimum koji Xenia interno podržava</value>
+    <value>Maximale Anzahl an Upscaling-Durchläufen, die in AMD FidelityFX Super Resolution 1.0 (FSR) ausgeführt werden, 
+	bevor nach dem letzten Durchlauf auf bilineares Strecken zurückgegriffen wird. 
+	Jeder Durchlauf skaliert nur bis zu 2×2 der vorherigen Größe hoch.
+    Wenn das Spiel ein Bild mit 1280×720 ausgibt, skaliert 1 Durchlauf es auf bis zu 2560×1440 (unterhalb von 4K), 
+	nach 2 Durchläufen wird es auf maximal 5120×2880 hochskaliert (einschließlich 3840×2160 für 4K).
+    Diese Variable hat keine Auswirkung, wenn die Bildschirmauflösung nicht sehr hoch ist, kann jedoch bei Auflösungen wie 4K oder 8K reduziert werden, 
+	falls der Leistungsaufwand mehrerer FSR-Upscaling-Durchläufe zu hoch ist oder weichere Kanten gewünscht sind.
+    1–4, wobei 4 das intern von Xenia maximal unterstützte Limit ist.</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsPostProcessDitherSettingText" xml:space="preserve">
-    <value>Treperenje Nakon Obrade</value>
+    <value>Post Processing Dithering</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsPostProcessDitherSettingTooltip" xml:space="preserve">
-    <value>Promijenite konačnu sliku s interne preciznosti na 8 bita po kanalu kako bi gradijenti bili glatkiji.
-Na 10bpc zaslonu, donja 2 bita će i dalje biti sačuvana, ali će im se dodati šum.
-Onemogućivanje se može preporučiti za 10bpc, ali ovisi o mogućnostima prikaza 10bpc stvarnog korištenog zaslona.</value>
+    <value>Das endgültige Bild aus der internen Präzision auf 8 Bit pro Kanal dithern, damit Farbverläufe weicher wirken.
+	Auf einem 10‑bpc‑Display bleiben die unteren 2 Bit erhalten, es wird jedoch Rauschen hinzugefügt.
+	Das Deaktivieren kann bei 10 bpc empfohlen werden, hängt jedoch von den 10‑bpc‑Darstellungsfähigkeiten des verwendeten Displays ab.</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsAllowInvalidFetchConstantsSettingText" xml:space="preserve">
-    <value>Dopusti Nevažeće Konstante Dohvaćanja</value>
+    <value>Ungültige Fetch Konstanten zulassen</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsAllowInvalidFetchConstantsSettingTooltip" xml:space="preserve">
-    <value>Dopusti konstante za dohvaćanje tekstura i vrhova s nevažećim tipom
-Općenito nesigurno jer konstanta može sadržavati potpuno nevažeće vrijednosti,
-ali se može koristiti za zaobilaženje pogrešaka dohvaćanja tipa konstante u određenim igrama
-dok se ne pronađe pravi razlog zašto su nevažeće</value>
+    <value>Textur- und Vertex-Fetch-Konstanten mit ungültigem Typ zulassen
+	Im Allgemeinen unsicher, da die Konstante völlig ungültige Werte enthalten kann, 
+	kann jedoch verwendet werden, um Fetch-Konstanten-Typfehler in bestimmten Spielen zu umgehen, 
+	bis der eigentliche Grund für ihre Ungültigkeit gefunden wird.</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsGammaRenderTargetAsSRgbSettingText" xml:space="preserve">
-    <value>Cilj Gama Renderiranja kao sRGB</value>
+    <value>Gamma Render Target als sRGB</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsGammaRenderTargetAsSRgbSettingTooltip" xml:space="preserve">
-    <value>Kada host ne može izravno pisati djelomično linearnu gamu s ispravnim miješanjem,
-koristite sRGB izlaz na hostu za konceptualno ispravno miješanje u linearnom prostoru boja
-uz malo drugačiju distribuciju preciznosti u cilju renderiranja
-i ozbiljno netočne vrijednosti ako igra pristupa rezultirajućim bojama izravno kao sirovim podacima</value>
+    <value>Wenn der Host keine stückweise lineare Gamma-Kurve direkt mit korrektem Blending schreiben kann, 
+	sRGB-Ausgabe auf dem Host verwenden, um konzeptionell korrektes Blending im linearen Farbraum zu erzielen, 
+	wobei jedoch die Präzisionsverteilung im Render-Target leicht abweicht 
+	und stark falsche Werte entstehen, wenn das Spiel die resultierenden Farben direkt als Rohdaten ausliest.</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsUseFuzzyAlphaEpsilonSettingText" xml:space="preserve">
-    <value>Nejasan Alfa Epsilon</value>
+    <value>Fuzzy Alpha Epsilon</value>
   </data>
   <data name="XeniaSettingsPage_GraphicsUseFuzzyAlphaEpsilonSettingTooltip" xml:space="preserve">
-    <value>Koristite približnu usporedbu za alfa vrijednosti kako biste spriječili treperenje na NVIDIA grafičkim karticama</value>
+    <value>Ungefähren Vergleich für Alpha Werte verwenden, um Flackern auf NVIDIA Grafikkarten zu verhindern</value>
   </data>
   <data name="XeniaSettingsPage_DisplayQueryOcclusionFakeSampleCountLowerSettingText" xml:space="preserve">
-    <value>Broj lažnih uzoraka okluzije upita (donji prag)</value>
+    <value>Abfrage Occlusion Gefälschte Sample-Anzahl
+	(Untere Schwelle)</value>
   </data>
   <data name="XeniaSettingsPage_DisplayQueryOcclusionFakeSampleCountLowerSettingTooltip" xml:space="preserve">
-    <value>Ako se postavi na -1, ne zapisuju se brojevi uzoraka, igre se mogu zamrznuti.
-Inače, broj uzoraka svake pločice bit će povećan za svaki EVENT_WRITE_ZPD za ovaj broj.
-Postavljanje na 0 znači da se sve prijavljuje kao zaklonjeno.</value>
+    <value>Wenn auf -1 gesetzt, werden keine Sample-Zähler geschrieben – Spiele können hängen bleiben.
+	Andernfalls wird der Sample-Zähler jeder Kachel bei jedem EVENT_WRITE_ZPD um diese Zahl erhöht.
+	Wird der Wert auf 0 gesetzt, wird alles als verdeckt (occluded) gemeldet.</value>
   </data>
   <data name="XeniaSettingsPage_DisplayQueryOcclusionFakeSampleCountUpperSettingText" xml:space="preserve">
-    <value>Broj lažnih uzoraka okluzije upita (gornji prag)</value>
+    <value>Abfrage Occlusion Gefälschte Sample-Anzahl
+	(Obere Schwelle)</value>
   </data>
   <data name="XeniaSettingsPage_DisplayQueryOcclusionFakeSampleCountUpperSettingTooltip" xml:space="preserve">
-    <value>Postavljeno na veći broj od query_occlusion_sample_lower_threshold
-Ova vrijednost se zanemaruje ako je query_occlusion_sample_lower_threshold postavljen na -1</value>
+    <value>Auf einen höheren Wert als query_occlusion_sample_lower_threshold setzen.
+	Dieser Wert wird ignoriert, wenn query_occlusion_sample_lower_threshold auf -1 
+	gesetzt ist.</value>
   </data>
   <data name="XeniaSettingsPage_GeneralAllowPluginsSettingText" xml:space="preserve">
-    <value>Dopusti Dodatke</value>
+    <value>Plugins zulassen</value>
   </data>
   <data name="XeniaSettingsPage_GeneralAllowPluginsSettingTooltip" xml:space="preserve">
-    <value>Omogućuje učitavanje dodataka/trenera iz plugins\title_id\plugin.xex
-Dodaci su homebrew xex moduli koji se mogu koristiti za izradu modova
-NAPOMENA: Ova značajka je eksperimentalna</value>
+    <value>Ermöglicht das Laden von Plugins/Trainern aus plugins\title_id\plugin.xex
+	Plugins sind Homebrew‑XEX‑Module, die für das Erstellen von Mods verwendet werden können.
+	HINWEIS: Diese Funktion ist experimentell.</value>
   </data>
   <data name="XeniaSettingsPage_GeneralDiscordSettingText" xml:space="preserve">
     <value>Discord Rich Presence</value>
   </data>
   <data name="XeniaSettingsPage_GeneralDiscordSettingTooltip" xml:space="preserve">
-    <value>Prikažite svoju aktivnost na Discordu</value>
+    <value>Zeige deine Aktivität auf Discord</value>
   </data>
   <data name="XeniaSettingsPage_GeneralApplyPatchesSettingText" xml:space="preserve">
-    <value>Zakrpe za Igre</value>
+    <value>Spiel Patches</value>
   </data>
   <data name="XeniaSettingsPage_GeneralApplyPatchesSettingTooltip" xml:space="preserve">
-    <value>Omogućuje funkcionalnost prilagođenih zakrpa
-Ako je onemogućeno, zakrpe za igre poput zakrpe za 60FPS neće raditi</value>
+    <value>Aktiviert die benutzerdefinierte Patch‑Funktionalität.
+	Wenn deaktiviert, funktionieren Spiel‑Patches wie z. B. der 60 FPS Patch nicht.</value>
   </data>
   <data name="XeniaSettingsPage_GeneralLicenseMaskSettingText" xml:space="preserve">
-    <value>Licenca</value>
+    <value>Lizenzmaske</value>
   </data>
   <data name="XeniaSettingsPage_GeneralLicenseMaskSettingTooltip" xml:space="preserve">
-    <value>- Bez licence
-- Prva licenca (Općenito licenca pune verzije u Xbox Live Arcade naslovima)
-- Sve licence (Sve moguće licence su omogućene, ali to može dovesti do nedefiniranog ponašanja)</value>
+    <value>- Keine Lizenz
+- Erste Lizenz – In der Regel die Vollversions‑Lizenz bei Xbox Live Arcade‑Titeln.
+- Alle Lizenzen – Aktiviert alle möglichen Lizenzen, was jedoch zu undefiniertem Verhalten führen kann.</value>
   </data>
   <data name="XeniaSettingsPage_GeneralApplyTitleUpdatesSettingText" xml:space="preserve">
-    <value>Ažuriranja Igara</value>
+    <value>Title Updates</value>
   </data>
   <data name="XeniaSettingsPage_GeneralApplyTitleUpdatesSettingTooltip" xml:space="preserve">
-    <value>Omogućuje primjenu ažuriranja igara</value>
+    <value>Aktiviert das Anwenden von Titel Updates</value>
   </data>
   <data name="XeniaSettingsPage_GeneralShowAchievementNotificationSettingText" xml:space="preserve">
-    <value>Prikaži Obavijesti o Postignućima</value>
+    <value>Erfolgsbenachrichtigung anzeigen</value>
   </data>
   <data name="XeniaSettingsPage_GeneralShowAchievementNotificationSettingTooltip" xml:space="preserve">
-    <value>Prikaži obavijest o postignuću na zaslonu</value>
+    <value>Erfolgsbenachrichtigung auf dem Bildschirm anzeigen</value>
   </data>
   <data name="XeniaSettingsPage_GeneralUserCountrySettingText" xml:space="preserve">
-    <value>Zemlja Korisnika</value>
+    <value>Benutzerland</value>
   </data>
   <data name="XeniaSettingsPage_GeneralUserCountrySettingTooltip" xml:space="preserve">
-    <value>Koristi se za promjenu države (Igre mogu ovo koristiti za promjenu jezika)</value>
+    <value>Wird verwendet, um das Land zu ändern (Spiele können dies nutzen, um ihre Sprache zu ändern).</value>
   </data>
   <data name="XeniaSettingsPage_GeneralUserLanguageSettingText" xml:space="preserve">
-    <value>Jezik Korisnika</value>
+    <value>Benutzersprache</value>
   </data>
   <data name="XeniaSettingsPage_GeneralUserLanguageSettingTooltip" xml:space="preserve">
-    <value>Koristi se za promjenu jezika u igrama (ako ga podržavaju)</value>
+    <value>Wird verwendet, um die Sprache in Spielen zu ändern (falls diese es unterstützen)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputHidSettingText" xml:space="preserve">
-    <value>Ulazni Sustav</value>
+    <value>Eingabesystem</value>
   </data>
   <data name="XeniaSettingsPage_UserInputHidSettingTooltip" xml:space="preserve">
-    <value>- Bilo koji (zadano)
-- SDL2 (potreban za kontrolere koji nisu XInput)
-- XInput (XInput kontroleri)
-- Winkey (tipkovnica)</value>
+    <value>- Beliebig (Standard)
+- SDL2 (erforderlich für Controller, die kein XInput verwenden)
+- XInput (für XInput‑Controller)
+- Winkey (Tastatur)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputKeyboardModeSettingText" xml:space="preserve">
-    <value>Način Rada Tipkovnice</value>
+    <value>Tastaturmodus</value>
   </data>
   <data name="XeniaSettingsPage_UserInputKeyboardModeSettingTooltip" xml:space="preserve">
-    <value>- Onemogućeno
-- Omogućeno
-- Prolaz (Zahtijeva priključenje kontrolera)</value>
+    <value>- Deaktiviert
+- Aktiviert
+- Durchschleifen (erfordert, dass ein Controller verbunden ist)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputKeyboardUserIndexSettingText" xml:space="preserve">
-    <value>Indeks Korisnika Tipkovnice</value>
+    <value>Tastatur Benutzerindex</value>
   </data>
   <data name="XeniaSettingsPage_UserInputKeyboardUserIndexSettingTooltip" xml:space="preserve">
-    <value>Priključak kontrolera koji emulira tipkovnica</value>
+    <value>Controller‑Port, den die Tastatur emuliert</value>
   </data>
   <data name="XeniaSettingsPage_UserInputLeftStickDeadzoneSettingText" xml:space="preserve">
-    <value>Mrtva Zona Lijeve Palice</value>
+    <value>Linker Stick Totzone</value>
   </data>
   <data name="XeniaSettingsPage_UserInputLeftStickDeadzoneSettingTooltip" xml:space="preserve">
-    <value>Definira razinu mrtve zone za lijevu palicu</value>
+    <value>Definiert den Totzonen Wert für den linken Stick.</value>
   </data>
   <data name="XeniaSettingsPage_UserInputRightStickDeadzoneSettingText" xml:space="preserve">
-    <value>Mrtva Zona Desne Palice</value>
+    <value>Rechter Stick Totzone</value>
   </data>
   <data name="XeniaSettingsPage_UserInputRightStickDeadzoneSettingTooltip" xml:space="preserve">
-    <value>Definira razinu mrtve zone za desnu palicu</value>
+    <value>Definiert den Totzonen‑Wert für den rechten Stick.</value>
   </data>
   <data name="XeniaSettingsPage_UserInputControllerHotkeysSettingText" xml:space="preserve">
-    <value>Prečaci Kontrolera</value>
+    <value>Controller Hotkeys</value>
   </data>
   <data name="XeniaSettingsPage_UserInputControllerHotkeysSettingTooltip" xml:space="preserve">
-    <value>Tipkovni prečaci za Xbox i PS kontrolere
-NAPOMENA: Može ometati igranje</value>
+    <value>Hotkeys für Xbox‑ und PS Controller
+	HINWEIS: Kann das Gameplay beeinträchtigen</value>
   </data>
   <data name="XeniaSettingsPage_UserInputControllerVibrationSettingText" xml:space="preserve">
-    <value>Vibracija Kontrolera</value>
+    <value>Controller Vibration</value>
   </data>
   <data name="XeniaSettingsPage_UserInputControllerVibrationSettingTooltip" xml:space="preserve">
-    <value>Uključi/isključi vibraciju kontrolera</value>
+    <value>Controller Vibration umschalten</value>
   </data>
   <data name="XeniaSettingsPage_StorageMountCacheSettingText" xml:space="preserve">
-    <value>Montiraj Predmemoriju</value>
+    <value>Mount Cache</value>
   </data>
   <data name="XeniaSettingsPage_StorageMountCacheSettingTooltip" xml:space="preserve">
-    <value>Omogući montiranje predmemorije
-Može popraviti neke igre</value>
+    <value>Cache Mount aktivieren  
+Kann einige Spiele reparieren</value>
   </data>
   <data name="XeniaSettingsPage_StorageMountScratchSettingText" xml:space="preserve">
-    <value>Montiraj Scratch</value>
+    <value>Mount Scratch</value>
   </data>
   <data name="XeniaSettingsPage_StorageMountScratchSettingTooltip" xml:space="preserve">
-    <value>Omogući montažu scratcha</value>
+    <value>Scratch Mount aktivieren</value>
   </data>
   <data name="XeniaSettingsPage_HacksCommandLineSettingText" xml:space="preserve">
-    <value>Komandna Linija (cl)</value>
+    <value>Befehlszeile (cl)</value>
   </data>
   <data name="XeniaSettingsPage_HacksCommandLineSettingTooltip" xml:space="preserve">
-    <value>Navedite dodatnu naredbenu liniju koja se pruža gostu</value>
+    <value>Zusätzliche Befehlszeilenparameter angeben, die dem Gastsystem übergeben werden.</value>
   </data>
   <data name="XeniaSettingsPage_HacksProtectZeroSettingText" xml:space="preserve">
-    <value>Zaštiti Nultu Stranicu</value>
+    <value>Zero Page Schutz</value>
   </data>
   <data name="XeniaSettingsPage_HacksProtectZeroSettingTooltip" xml:space="preserve">
-    <value>Zaštiti nultu stranicu od čitanja i pisanja
-- Uključeno (zadano)
-- Isključeno (hakiranje, potrebno za određene igre)</value>
+    <value>Schützt die Zero Page vor Lese‑ und Schreibzugriffen
+- Ein (Standard)
+- Aus (Hack, erforderlich für bestimmte Spiele)</value>
   </data>
   <data name="XeniaSettingsPage_HacksBreakOnUnimplementedInstructionsSettingText" xml:space="preserve">
-    <value>Prekid Zbog Neimplementiranih Instrukcija</value>
+    <value>Bei nicht implementierten Anweisungen anhalten</value>
   </data>
   <data name="XeniaSettingsPage_HacksBreakOnUnimplementedInstructionsSettingTooltip" xml:space="preserve">
-    <value>Prekid s debuggerom glavnog računala (ili rušenje ako debugger nije priključen) ako se naiđe na neimplementiranu PowerPC instrukciju
-- Uključeno (zadano)
-- Isključeno (hakiranje, potrebno za određene igre)</value>
+    <value>Bei einer nicht implementierten PowerPC‑Anweisung zum Host‑Debugger wechseln (oder abstürzen, falls kein Debugger verbunden ist)
+- Ein (Standard)
+- Aus (Hack, erforderlich für bestimmte Spiele)</value>
   </data>
   <data name="XeniaSettingsPage_HacksClearGpuCacheSettingText" xml:space="preserve">
-    <value>Obriši Predmemoriju GPU-a</value>
+    <value>GPU Cache leeren</value>
   </data>
   <data name="XeniaSettingsPage_HacksClearGpuCacheSettingTooltip" xml:space="preserve">
-    <value>Osvježi stanje memorijskih stranica kako bi se omogućili podaci zapisani GPU-om
-- Uključeno (pogoršava performanse, ali može pomoći u smanjenju vizualnih anomalija poput eksplozija poligona ili oštećenih tekstura)
-- Isključeno (zadano)</value>
+    <value>Den Status der Speicherseiten aktualisieren, um von der GPU geschriebene Daten zu aktivieren
+- Ein (verschlechtert die Leistung, kann aber visuelle Anomalien wie „Polygon‑Explosionen“ oder beschädigte Texturen reduzieren)
+- Aus (Standard)</value>
   </data>
   <data name="XeniaSettingsPage_HacksDisableContextPromotionSettingText" xml:space="preserve">
-    <value>Onemogući Promociju Konteksta</value>
+    <value>Kontext Promotion deaktivieren</value>
   </data>
   <data name="XeniaSettingsPage_HacksDisableContextPromotionSettingTooltip" xml:space="preserve">
-    <value>Onemogućuje optimizacije promocije konteksta
-Ovo može biti potrebno za neke sportske igre, ali će smanjiti performanse</value>
+    <value>Deaktiviert die Context‑Promotion‑Optimierungen 
+	Dies kann für einige Sportspiele erforderlich sein, verringert jedoch die Leistung.</value>
   </data>
   <data name="XeniaSettingsPage_HacksScribbleHeapSettingText" xml:space="preserve">
-    <value>Hrpa za Škrabanje</value>
+    <value>Scribble Heap</value>
   </data>
   <data name="XeniaSettingsPage_HacksScribbleHeapSettingTooltip" xml:space="preserve">
-    <value>Upiši 0xCD u svu alociranu memoriju heap-a
-Ovo se može koristiti kao alternativa za Readback Resolve u nekim igrama</value>
+    <value>0xCD in allen zugewiesenen Heap‑Speicher schreiben 
+	Dies kann in einigen Spielen als Alternative zu „Readback Resolve“ verwendet werden.</value>
   </data>
   <data name="XeniaSettingsPage_HacksDisassembleFunctionsSettingText" xml:space="preserve">
-    <value>Rastavljanje Funkcija</value>
+    <value>Funktionen disassemblieren</value>
   </data>
   <data name="XeniaSettingsPage_HacksDisassembleFunctionsSettingTooltip" xml:space="preserve">
-    <value>Rastavljanje funkcija tijekom generiranja
-Ovo se može koristiti kao alternativa za Readback Resolve u nekim igrama</value>
+    <value>Funktionen während der Generierung disassemblieren 
+	Dies kann in einigen Spielen als Alternative zu „Readback Resolve“ verwendet werden.</value>
   </data>
   <data name="OpenFileDialog_SelectGamePatchTitle" xml:space="preserve">
-    <value>Odaberite datoteku zakrpe za igru</value>
+    <value>Spieldatei für Patch auswählen</value>
   </data>
   <data name="LibraryGameButton_EditMenuText" xml:space="preserve">
-    <value>Uredi Igru</value>
+    <value>Spiel bearbeiten</value>
   </data>
   <data name="LibraryGameButton_EditGameSettings" xml:space="preserve">
-    <value>Postavke</value>
+    <value>Einstellungen</value>
   </data>
   <data name="LibraryGameButton_PlaytimeNeverPlayed" xml:space="preserve">
-    <value>Nikad igrano</value>
+    <value>Noch nie gespielt</value>
   </data>
   <data name="LibraryGameButton_PlaytimeMinutes" xml:space="preserve">
-    <value>{0} minuta</value>
+    <value>{0}  Minuten</value>
   </data>
   <data name="LibraryGameButton_PlaytimeHours" xml:space="preserve">
-    <value>{0} sati</value>
+    <value>{0} Stunden</value>
   </data>
   <data name="LibraryGameButton_PlaytimeTimePlayed" xml:space="preserve">
-    <value>Vrijeme odigravanja:</value>
+    <value>Gespielte Zeit:</value>
   </data>
   <data name="MessageBox_DeleteSaveGameTitle" xml:space="preserve">
-    <value>Izbriši spremljenu igru</value>
+    <value>Spielstand löschen</value>
   </data>
   <data name="MessageBox_DeleteSaveGameText" xml:space="preserve">
-    <value>Želite li izbrisati spremljenu datoteku za {0}?</value>
+    <value>Möchten Sie die Speicherdatei für {0} löschen?</value>
   </data>
   <data name="MessageBox_SuccessDeleteSaveGameText" xml:space="preserve">
-    <value>Spremljena igra za {0} je uspješno izbrisana.</value>
+    <value>Der Spielstand für {0} wurde erfolgreich gelöscht.</value>
   </data>
   <data name="SettingsPage_AutomaticSaveBackup" xml:space="preserve">
-    <value>Automatsko spremanje sigurnosne kopije</value>
+    <value>Automatische Sicherung von Spielständen</value>
   </data>
   <data name="SettingsPage_AutomaticSaveBackupTooltip" xml:space="preserve">
-    <value>Omogućite ovu opciju za automatsko sigurnosno kopiranje datoteka u mapu Sigurnosne kopije pored Xenia Managera svaki put kada se Xenia Manager zatvori</value>
+    <value>Aktivieren Sie diese Option, um beim Schließen von Xenia Manager automatisch 
+	Sicherungskopien der Speicherdateien im Backup‑Ordner neben Xenia Manager zu erstellen.</value>
   </data>
   <data name="SettingsPage_ProfileSlot" xml:space="preserve">
-    <value>Utor igračeg profila</value>
+    <value>Profil Slot</value>
   </data>
   <data name="SettingsPage_ProfileSlotTooltip" xml:space="preserve">
-    <value>Odaberite utor profila čije će se datoteke spremanja automatski sigurnosno kopirati svaki put kada izađete iz Xenie</value>
+    <value>Wählen Sie den Profil‑Slot aus, dessen Speicherdateien bei jedem Beenden von Xenia automatisch gesichert werden.</value>
   </data>
   <data name="LibraryGameButton_OpenSaveBackup" xml:space="preserve">
-    <value>Otvori sigurnosnu kopiju za spremljenu igru</value>
+    <value>Sicherungsordner öffnen</value>
   </data>
   <data name="MessageBox_MissingGameSaveBackupsTitle" xml:space="preserve">
-    <value>Nema sigurnosnih kopija spremljenih igara</value>
+    <value>Keine Sicherungskopien von Spielständen</value>
   </data>
   <data name="MessageBox_MissingGameSaveBackupsText" xml:space="preserve">
-    <value>{0} nema sigurnosne kopije spremljenih igara</value>
+    <value>{0} hat keine Sicherungskopien von Spielständen</value>
   </data>
   <data name="GameDetailsEditor_TitleId" xml:space="preserve">
     <value>Title ID</value>
@@ -815,237 +818,242 @@ Ovo se može koristiti kao alternativa za Readback Resolve u nekim igrama</value
     <value>Media ID</value>
   </data>
   <data name="GameDetailsEditor_GameTitle" xml:space="preserve">
-    <value>Naslov</value>
+    <value>Title</value>
   </data>
   <data name="AboutPage_AppDescription" xml:space="preserve">
-    <value>Sveobuhvatan alat za upravljanje Xenia Xbox 360 emulatorom. Jednostavno instalirajte, ažurirajte i upravljajte različitim verzijama Xenia emulatora pomoću intuitivnog sučelja.</value>
+    <value>Ein umfassendes Verwaltungstool für den Xenia‑Emulator. 
+	Ermöglicht die einfache Installation, Aktualisierung und Verwaltung verschiedener 
+	Versionen des Xenia‑Emulators über eine intuitive Benutzeroberfläche.</value>
   </data>
   <data name="AboutPage_WebsiteButtonText" xml:space="preserve">
-    <value>Web Stranica</value>
+    <value>Website</value>
   </data>
   <data name="AboutPage_GithubButtonText" xml:space="preserve">
     <value>GitHub</value>
   </data>
   <data name="AboutPage_CheckForUpdatesButtonText" xml:space="preserve">
-    <value>Provjeri ažuriranja</value>
+    <value>Nach Updates suchen</value>
   </data>
   <data name="AboutPage_LicenseCreditsText" xml:space="preserve">
-    <value>Licenca i zasluge</value>
+    <value>Lizenz &amp; Danksagungen</value>
   </data>
   <data name="AboutPage_LicenseCreditsSideText" xml:space="preserve">
-    <value>Pravne informacije i zahvale</value>
+    <value>Rechtliche Hinweise und Danksagungen</value>
   </data>
   <data name="AboutPage_LicenseText" xml:space="preserve">
-    <value>Ovaj softver je licenciran pod BSD-3-Clause licencom.</value>
+    <value>Diese Software ist unter der BSD‑3‑Clause‑Lizenz lizenziert.</value>
   </data>
   <data name="MessageBox_SuccessExportLogsText" xml:space="preserve">
-    <value>Logovi Xenia {0} izvezena je na računalo.</value>
+    <value>Die Xenia {0} Protokolldatei wurde auf dem Desktop exportiert.</value>
   </data>
   <data name="ManagePage_UpdateGameControllerDatabase" xml:space="preserve">
-    <value>Ažuriranje SDL baze podataka</value>
+    <value>SDL Datenbank aktualisieren</value>
   </data>
   <data name="MessageBox_SuccessUpdateGameControllerDatabaseText" xml:space="preserve">
-    <value>Baza podataka igraćeg kontrolera Xenia {0} uspješno je ažurirana.</value>
+    <value>Die Xenia {0} Gamecontroller‑Datenbank wurde erfolgreich aktualisiert.</value>
   </data>
   <data name="SnackbarPresenter_CopiedImageTitle" xml:space="preserve">
-    <value>Slika je kopirana</value>
+    <value>Bild kopiert</value>
   </data>
   <data name="SnackbarPresenter_CopiedImageText" xml:space="preserve">
-    <value>Slika je kopirana u vaš međuspremnik</value>
+    <value>Das Bild wurde in die Zwischenablage kopiert.</value>
   </data>
   <data name="LibraryGameButton_GameScreenshots" xml:space="preserve">
-    <value>Snimke zaslona</value>
+    <value>Screenshots</value>
   </data>
   <data name="ScreenshotContextMenu_OpenFullscreen" xml:space="preserve">
-    <value>Prikaži preko cijelog zaslona</value>
+    <value>Vollbildmodus öffnen</value>
   </data>
   <data name="ScreenshotContextMenu_CopyImage" xml:space="preserve">
-    <value>Kopiraj sliku</value>
+    <value>Bild kopieren</value>
   </data>
   <data name="ScreenshotContextMenu_ShowInExplorer" xml:space="preserve">
-    <value>Prikaži u Exploreru</value>
+    <value>Im Explorer anzeigen</value>
   </data>
   <data name="ScreenshotContextMenu_DeleteScreenshot" xml:space="preserve">
-    <value>Izbriši</value>
+    <value>Löschen</value>
   </data>
   <data name="AboutPage_UpdateXeniaManagerButtonText" xml:space="preserve">
-    <value>Ažuriraj Xenia Manager</value>
+    <value>Xenia  Manager aktualisieren</value>
   </data>
   <data name="SnackbarPresenter_XeniaManagerUpdateAvailableTitle" xml:space="preserve">
-    <value>Xenia Manager ima novo ažuriranje</value>
+    <value>„Xenia Manager hat ein neues Update</value>
   </data>
   <data name="SnackbarPresenter_XeniaManagerUpdateAvailableText" xml:space="preserve">
-    <value>Otvorite stranicu "O nama" za ažuriranje Xenia Managera</value>
+    <value>Seite  "Info" öffnen, um Xenia  Manager zu aktualisieren </value>
   </data>
   <data name="InfoBar_NoUpdatesAvailableTitle" xml:space="preserve">
-    <value>Nema dostupnih ažuriranja</value>
+    <value>Keine Updates verfügbar</value>
   </data>
   <data name="InfoBar_UpdatesAvailableTitle" xml:space="preserve">
-    <value>Dostupna ažuriranja</value>
+    <value>Updates verfügbar</value>
   </data>
   <data name="InfoBar_ManagerUpdatesAvailableText" xml:space="preserve">
-    <value>Postoji novija verzija Xenia Managera.</value>
+    <value>Es gibt eine neuere Version von Xenia  Manager.</value>
   </data>
   <data name="InfoBar_ManagerNoUpdatesAvailableText" xml:space="preserve">
-    <value>Trenutno koristite najnoviju verziju Xenia Managera.</value>
+    <value>Sie verwenden derzeit die neueste Version von Xenia  Manager.</value>
   </data>
   <data name="XeniaSettingsPage_NvidiaVSyncSettingText" xml:space="preserve">
-    <value>Vertikalna sinkronizacija 
+    <value>Vertikale Synchronisation
 (NVIDIA)</value>
   </data>
   <data name="XeniaSettingsPage_NvidiaVSyncSettingTooltip" xml:space="preserve">
-    <value>Omogući vertikalnu sinkronizaciju iz NVIDIA upravljačke ploče
-Isključite Xenia vertikalnu sinkronizaciju ako planirate koristiti ovu opciju
-- Zadano (koristite postavke 3D aplikacije)
-- Prisilno isključeno - Omogućuje GPU-u renderiranje bez ograničenja frekvencijom osvježavanja, ali može uzrokovati trganje slike
-- Prisilno uključeno - Ograničava brzinu renderiranja GPU-a na maksimalnu brzinu osvježavanja monitora i izbjegava trganje slike
-- 1/2 Brzina osvježavanja - Ograničava brzinu renderiranja GPU-a na polovicu brzine osvježavanja monitora
-- 1/3 Brzina osvježavanja - Ograničava brzinu renderiranja GPU-a na jednu trećinu brzine osvježavanja monitora
-- 1/4 Brzina osvježavanja - Ograničava brzinu renderiranja GPU-a na jednu četvrtinu brzine osvježavanja monitora
-- Adaptivno (brza sinkronizacija) - Ograničava brzinu renderiranja GPU-a slično kao i Uključeno, ali ako brzina renderiranja padne, dopustit će trganje slike</value>
+    <value>Vertikale Synchronisation über die NVIDIA‑Systemsteuerung aktivieren
+ Deaktiviere die vertikale Synchronisation in Xenia, wenn du diese Option verwenden möchtest.
+- Standard (3D‑Anwendungseinstellungen verwenden)
+- Erzwingen Aus – Erlaubt der GPU, unabhängig von der Bildwiederholrate zu rendern, kann jedoch zu Screen Tearing führen
+- Erzwingen Ein – Begrenzt die Render‑Rate der GPU auf die maximale Bildwiederholrate des Monitors und verhindert Tearing
+- 1/2 Bildwiederholrate – Begrenzt die Render‑Rate der GPU auf die Hälfte der Bildwiederholrate des Monitors
+- 1/3 Bildwiederholrate – Begrenzt die Render‑Rate der GPU auf ein Drittel der Bildwiederholrate des Monitors
+- 1/4 Bildwiederholrate – Begrenzt die Render‑Rate der GPU auf ein Viertel der Bildwiederholrate des Monitors
+- Adaptiv (Fast Sync) – Begrenzt die Render‑Rate der GPU ähnlich wie „Ein“, erlaubt jedoch Tearing, wenn die Render‑Rate unter die Bildwiederholrate fällt</value>
   </data>
   <data name="XeniaSettingsPage_NvidiaFramerateLimitSettingText" xml:space="preserve">
-    <value>Ograničenje Broja Sličica Po Sekundi (NVIDIA)</value>
+    <value>FPS Limit
+(NVIDIA)</value>
   </data>
   <data name="XeniaSettingsPage_NvidiaFramerateLimitSettingTooltip" xml:space="preserve">
-    <value>Maksimalni broj sličica po sekundi
-Provjerite je li Xeniain limiter sličica u sekundi postavljen na 0 da bi ovo funkcioniralo.</value>
+    <value>Maximale Bilder pro Sekunde  
+Stelle sicher, dass der Framerate‑Begrenzer von Xenia auf **0** gesetzt ist, damit diese Einstellung funktioniert.</value>
   </data>
   <data name="SettingsPage_ShowLoadingScreen" xml:space="preserve">
-    <value>Zaslon za učitavanje</value>
+    <value>Ladebildschirm</value>
   </data>
   <data name="SettingsPage_ShowLoadingScreenTooltip" xml:space="preserve">
-    <value>Ako je omogućeno, pozadina igre će se prikazivati tijekom pokretanja emulatora.</value>
+    <value>Wenn aktiviert, wird der Hintergrund des Spiels angezeigt, während der Emulator gestartet wird.</value>
   </data>
   <data name="AboutPage_UseExperimentalBuild" xml:space="preserve">
-    <value>Eksperimentalno</value>
+    <value>Experimentell</value>
   </data>
   <data name="AboutPage_UseExperimentalBuildTooltip" xml:space="preserve">
-    <value>Omogući primanje eksperimentalnih ažuriranja značajki</value>
+    <value>Aktivieren, um experimentelle Funktions‑Updates zu erhalten.</value>
   </data>
   <data name="GameDetailsEditor_CompatibilityRating" xml:space="preserve">
-    <value>Ocjena kompatibilnosti</value>
+    <value>Kompatibilitätsbewertung</value>
   </data>
   <data name="GameDetailsEditor_CompatibilityPage" xml:space="preserve">
-    <value>Stranica kompatibilnosti</value>
+    <value>Kompatibilitätsseite</value>
   </data>
   <data name="GameDetailsEditor_CompatibilityPagePlaceholderText" xml:space="preserve">
-    <value>Unesite URL stranice kompatibilnosti igre</value>
+    <value>Gib die URL zur Kompatibilitätsseite des Spiels ein.</value>
   </data>
   <data name="GameDetailsEditor_GameTitlePlaceholderText" xml:space="preserve">
-    <value>Unesi igrin naslov</value>
+    <value>Gib den Spieltitel ein.</value>
   </data>
   <data name="GameDetailsEditor_InfobarAutomaticDetectionTitle" xml:space="preserve">
-    <value>Automatska detekcija</value>
+    <value>Automatische Erkennung</value>
   </data>
   <data name="GameDetailsEditor_InfobarAutomaticDetectionText" xml:space="preserve">
-    <value>ID naslova i ID medija automatski se otkrivaju iz datoteke igre i ne mogu se mijenjati.</value>
+    <value>Die Title  ID und Media  ID werden automatisch aus der Spieldatei erkannt und können nicht geändert werden.</value>
   </data>
   <data name="ManagePage_RedownloadXenia" xml:space="preserve">
-    <value>Ponovno preuzmite Xeniju</value>
+    <value>Xenia erneut herunterladen</value>
   </data>
   <data name="MessageBox_UnifiedContentFolderAdministratorRequiredText" xml:space="preserve">
-    <value>"Ujedinjena mapa sadržaja" zahtijeva administratorska prava.
-Pokrenite aplikaciju kao administrator ili onemogućite opciju kako biste mogli instalirati Xeniu.</value>
+    <value>"Einheitlicher Inhaltsordner" erfordert Administratorrechte. 
+	Bitte starte die Anwendung als Administrator oder deaktiviere diese Option, um Xenia installieren zu können.</value>
   </data>
   <data name="ManagePage_UnifiedContentFolder" xml:space="preserve">
-    <value>Ujedinjena mapa sadržaja</value>
+    <value>Einheitlicher Inhaltsordner</value>
   </data>
   <data name="ManagePage_UnifiedContentFolderTooltip" xml:space="preserve">
-    <value>Omogućuje svim verzijama Xenie da imaju istu mapu sadržaja
-NAPOMENA: Za ovo je potrebno da Xenia Manager bude pokrenut kao administrator tijekom instalacije Xenie</value>
+    <value>Sorgt dafür, dass alle Xenia‑Versionen denselben Inhaltsordner verwenden. 
+	Hinweis: Dafür muss Xenia Manager beim Installieren von Xenia als Administrator 
+	ausgeführt werden.</value>
   </data>
   <data name="MessageBox_SuccessDeleteGameContentText" xml:space="preserve">
-    <value>Datoteka sadržaja {0} za {1} uspješno je izbrisana.</value>
+    <value>Die Inhaltsdatei {0} für {1} wurde erfolgreich gelöscht.</value>
   </data>
   <data name="MessageBox_DeleteGameContentTitle" xml:space="preserve">
-    <value>Izbriši sadržaj igre</value>
+    <value>Spielinhalte löschen</value>
   </data>
   <data name="MessageBox_DeleteGameContentText" xml:space="preserve">
-    <value>Želite li izbrisati odabrani sadržaj za {0}?</value>
+    <value>Möchten Sie den ausgewählten Inhalt für {0} löschen?</value>
   </data>
   <data name="SettingsPage_AutoEmulatorUpdate" xml:space="preserve">
-    <value>Automatsko ažuriranje Xenie</value>
+    <value>Xenia automatisch aktualisieren</value>
   </data>
   <data name="SettingsPage_AutoEmulatorUpdateTooltip" xml:space="preserve">
-    <value>Kada je omogućeno, emulator će se ažurirati u pozadini.
-NAPOMENA: Xeniju ne možete koristiti tijekom procesa ažuriranja.</value>
+    <value>Wenn diese Option aktiviert ist, wird der Emulator im Hintergrund aktualisiert. 
+	Hinweis: Während des Aktualisierungsvorgangs kann Xenia nicht verwendet werden.</value>
   </data>
   <data name="LibraryMenuItemShow_Playtime" xml:space="preserve">
-    <value>Vrijeme igranja</value>
+    <value>Spielzeit</value>
   </data>
   <data name="OpenFileDialog_SelectXeniaExecutable" xml:space="preserve">
-    <value>Odaberite izvršnu datoteku Xenia Emulatora</value>
+    <value>Xenia Programmdatei auswählen</value>
   </data>
   <data name="MessageBox_SwitchXeniaVersion" xml:space="preserve">
-    <value>{0} sada koristi Xenia {1}.</value>
+    <value>{0} verwendet nun Xenia  {1}.</value>
   </data>
   <data name="XeniaSelection_MainText" xml:space="preserve">
-    <value>Odaberite verziju Xenie</value>
+    <value>Xenia Version auswählen</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookAutoaimSettingText" xml:space="preserve">
-    <value>Onemogući Automatsko Ciljanje</value>
+    <value>Auto Zielen deaktivieren</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookAutoaimSettingTooltip" xml:space="preserve">
-    <value>Onemogući automatsko ciljanje u igrama koje ga podržavaju</value>
+    <value>Auto‑Zielen in unterstützten Spielen deaktivieren</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookInvertXSettingText" xml:space="preserve">
-    <value>Invertiranje X Osi</value>
+    <value>X Achse invertieren</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookInvertXSettingTooltip" xml:space="preserve">
-    <value>Invertirajte X os miša</value>
+    <value>Maus X‑Achse invertieren</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookAimTurnDistanceSettingText" xml:space="preserve">
-    <value>Ciljna Udaljenost Okretanja</value>
+    <value>Aim Turn Distance</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookAimTurnDistanceSettingTooltip" xml:space="preserve">
-    <value>Nišan za daljinu može se pomicati u načinu ciljanja prije okretanja kamere
-[0 - 1]</value>
+    <value>Distanz, die sich das Fadenkreuz im Zielmodus bewegen kann, bevor sich die Kamera 
+	dreht 
+    [0 – 1]</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookMousehookFovSensitivitySettingText" xml:space="preserve">
-    <value>Osjetljivost Vidnog Polja</value>
+    <value>FOV‑Empfindlichkeit</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookMousehookFovSensitivitySettingTooltip" xml:space="preserve">
-    <value>Skaliranje miša kada se smanji vidno polje (FOV)
-(Trenutno za igre Call of Duty, Dead Rising, Red Dead Redemption i UE3)</value>
+    <value>Maus­skalierung, wenn das Sichtfeld (FOV) verringert wird 
+	(derzeit für Call of Duty, Dead Rising, Red Dead Redemption und UE3‑Spiele)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookMousehookSensitivitySettingText" xml:space="preserve">
-    <value>Osjetljivost Miša</value>
+    <value>Maus­empfindlichkeit</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookMousehookSensitivitySettingTooltip" xml:space="preserve">
-    <value>Omogućuje korisniku promjenu osjetljivosti miša</value>
+    <value>Ermöglicht es dem Benutzer, die Maus­empfindlichkeit zu ändern</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookMousehookMenuSensitivitySettingText" xml:space="preserve">
-    <value>Osjetljivost Izbornika</value>
+    <value>Menü­empfindlichkeit</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookMousehookMenuSensitivitySettingTooltip" xml:space="preserve">
-    <value>(GoldenEye/Saints Row 1) Osjetljivost miša u izbornicima</value>
+    <value>(GoldenEye / Saints Row  1) Maus­empfindlichkeit in Menüs</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookGoldenEyeDebugMenuSettingText" xml:space="preserve">
-    <value>GoldenEye
-Debug Izbornik</value>
+    <value>GoldenEye 
+Debug Menu</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookGoldenEyeDebugMenuSettingTooltip" xml:space="preserve">
-    <value>Omogućuje izbornik za otklanjanje pogrešaka, dostupan s LB/1</value>
+    <value>Aktiviert das Debug‑Menü, aufrufbar mit LB / 1</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookGunSwaySettingText" xml:space="preserve">
     <value>Gun Sway
 (GoldenEye/Perfect Dark)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookGunSwaySettingTooltip" xml:space="preserve">
-    <value>(GoldenEye/Perfect Dark) Omogući njihanje pištolja dok se kamera okreće</value>
+    <value>(GoldenEye / Perfect Dark) Waffen­schwanken aktivieren, wenn die Kamera gedreht wird</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookInvertYSettingText" xml:space="preserve">
-    <value>Invertiranje Y Osi</value>
+    <value>Y‑Achse invertieren</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookInvertYSettingTooltip" xml:space="preserve">
-    <value>Invertirajte Y os miša</value>
+    <value>Maus Y Achse invertieren</value>
   </data>
   <data name="XeniaSettingsPage_MousehookSettingsTitleText" xml:space="preserve">
     <value>Mousehook</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookGoldenEyeRemoveBlurSettingText" xml:space="preserve">
-    <value>Ukloni Zamućenje
+    <value>Unschärfe entfernen
 (GoldenEye)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookRdrSnappyWheelSettingText" xml:space="preserve">
@@ -1053,289 +1061,291 @@ Debug Izbornik</value>
 (Red Dead Redemption)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookRdrSnappyWheelSettingTooltip" xml:space="preserve">
-    <value>(Red Dead Redemption) Pomiče kotač oružja u koracima od 45 stupnjeva</value>
+    <value>(Red Dead Redemption) Rastet das Waffenrad in 45 Grad Schritten ein</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookGoldenEyeRemoveBlurSettingTooltip" xml:space="preserve">
-    <value>Uklanja zamućenje niske rezolucije u načinu rada s klasičnom grafikom</value>
+    <value>Entfernt die Unschärfe mit niedriger Auflösung im klassischen Grafikmodus</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookRdrTurboGallopHorseSettingText" xml:space="preserve">
-    <value>Turbo galop konj
+    <value>Turbo Gallop Horse
 (Red Dead Redemption)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookRdrTurboGallopHorseSettingTooltip" xml:space="preserve">
-    <value>Omogućuje turbo galopiranje za konje i kočije u Red Dead Redemptionu (vezano za modifikator isto kao i Turbo sprint)</value>
+    <value>Aktiviert Turbo‑Galopp für Pferde und Kutschen in Red Dead Redemption (gebunden an denselben Modifikator wie Turbo‑Sprint)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookSr2BetterDriveCamSettingText" xml:space="preserve">
-    <value>Bolja kamera za vožnju 
+    <value>Better Drive Cam
 (Saints Row 2)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookSr2BetterDriveCamSettingTooltip" xml:space="preserve">
-    <value>Odvaja X rotaciju od vozila kada je automatsko centriranje onemogućeno, slično kao u GTA IV</value>
+    <value>Löst die X‑Achsen‑Rotation von Fahrzeugen, wenn die automatische Zentrierung deaktiviert ist – ähnlich wie in GTA IV</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookSr2BetterHandbrakeCamSettingText" xml:space="preserve">
-    <value>Bolja Kamera Ručne Kočnice
+    <value>Better Handbrake Camera
 (Saints Row 2)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookSr2BetterHandbrakeCamSettingTooltip" xml:space="preserve">
-    <value>Odvaja X rotaciju od vozila prilikom ručnog kočenja slično Saints Row 1</value>
+    <value>Löst die X‑Achsen‑Rotation von Fahrzeugen beim Handbremsen – ähnlich wie in Saints Row  1</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookSr2HoldFineAimSettingText" xml:space="preserve">
-    <value>Drži za Precizno Ciljanje
+    <value>Hold Fine Aim
 (Saints Row 2)</value>
   </data>
   <data name="XeniaSettingsPage_UserInputMousehookSr2HoldFineAimSettingTooltip" xml:space="preserve">
-    <value>Prebacuje fino ciljanje (ADS) s prekidača na držanje pritiska</value>
+    <value>Schaltet das präzise Zielen (ADS) von einer Umschaltfunktion auf gedrückt halten um</value>
   </data>
   <data name="LibraryGameButton_ConfigureMousehookControls" xml:space="preserve">
-    <value>Konfiguriraj kontrole</value>
+    <value>Steuerung konfigurieren</value>
   </data>
   <data name="MessageBox_NoMousehookBindingsText" xml:space="preserve">
-    <value>Nije uspjelo dohvaćanje tipkih za {0}.</value>
+    <value>Fehler beim Abrufen der Tastenbelegungen für {0}.</value>
   </data>
   <data name="MessageBox_SuccessReinstallXeniaText" xml:space="preserve">
-    <value>Xenia {0} je uspješno ponovno preuzeta.</value>
+    <value>Xenia  {0} wurde erfolgreich erneut heruntergeladen.</value>
   </data>
   <data name="ManagePage_RedownloadXeniaTooltip" xml:space="preserve">
-    <value>Ponovna preuzimanja Xenia
-Korisno je ako nešto ne radi</value>
+    <value>Lädt Xenia erneut herunter
+	nützlich, wenn etwas nicht funktioniert</value>
   </data>
   <data name="LibraryGameButton_SwitchToXeniaText" xml:space="preserve">
-    <value>Prebaci na Xenia {0}</value>
+    <value>Zu Xenia  {0} wechseln</value>
   </data>
   <data name="LibraryGameButton_SwitchToXeniaTooltip" xml:space="preserve">
-    <value>Mijenja verziju Xenia Emulatora koju igra koristi u Xenia {0}</value>
+    <value>Ändert die von dem Spiel verwendete Xenia Version zu Xenia {0}</value>
   </data>
   <data name="MessageBox_DeleteXeniaTitle" xml:space="preserve">
-    <value>Deinstalirajte Xenia {0}</value>
+    <value>Deinstalliert Xenia  {0}</value>
   </data>
   <data name="MessageBox_DeleteXeniaText" xml:space="preserve">
-    <value>Želite li deinstalirati Xenia {0}?
-Ovim će se ukloniti sve spremljene datoteke i ažuriranja zajedno s emulatorom.</value>
+    <value>Möchten Sie Xenia {0} deinstallieren? 
+	Dadurch werden alle Speicherstände und Updates zusammen mit dem Emulator entfernt.</value>
   </data>
   <data name="MessageBox_SuccessInstallXeniaText" xml:space="preserve">
-    <value>Xenia {0} je uspješno instalirana.</value>
+    <value>Xenia  {0} wurde erfolgreich installiert.</value>
   </data>
   <data name="MessageBox_SuccessUninstallXeniaText" xml:space="preserve">
-    <value>Xenia {0} je uspješno deinstalirana.</value>
+    <value>Xenia  {0} wurde erfolgreich deinstalliert.</value>
   </data>
   <data name="MessageBox_SuccessUpdateXeniaText" xml:space="preserve">
-    <value>Xenia {0} je uspješno ažurirana.</value>
+    <value>Xenia  {0} wurde erfolgreich aktualisiert.</value>
   </data>
   <data name="LibraryGameButton_ConfigureMousehookControlsTooltip" xml:space="preserve">
-    <value>Konfiguriraj kontrole koje koristi {0} u Xenia Mousehooku</value>
+    <value>Konfiguriert die von  {0} in Xenia  Mousehook verwendeten Tastenbelegungen</value>
   </data>
   <data name="LibraryGameButton_ViewContentTooltip" xml:space="preserve">
-    <value>Omogućava korisniku da vidi što se nalazi u direktoriju sadržaja za {0}, postignuća te izvoz spremljenog stanja igre</value>
+    <value>Ermöglicht dem Benutzer, den Inhalt des {0} Ordners anzuzeigen, Erfolge einzusehen und Speicherstände zu exportieren</value>
   </data>
   <data name="LibraryGameButton_InstallPatchesTooltip" xml:space="preserve">
-    <value>Omogućuje korisniku instaliranje lokalno dostupne datoteke zakrpe</value>
+    <value>Ermöglicht dem Benutzer, eine lokal verfügbare Patch Datei zu installieren</value>
   </data>
   <data name="LibraryGameButton_DownloadPatchesTooltip" xml:space="preserve">
-    <value>Preuzima i instalira zakrpe iz repozitorija zakrpa za igru</value>
+    <value>Lädt eine Patch‑Datei aus dem Spiele‑Patch‑Repository herunter und installiert sie</value>
   </data>
   <data name="LibraryGameButton_AddAdditionalPatchesTooltip" xml:space="preserve">
-    <value>Dodajte dodatne zakrpe postojećoj datoteci zakrpe iz druge lokalne datoteke
-Korisno ako imate datoteku zakrpe koja se ne nalazi u repozitoriju zakrpa za igru</value>
+    <value>Fügt dem vorhandenen Patch‑File zusätzliche Patches aus einer anderen lokalen Datei hinzu 
+	nützlich, wenn Sie eine Patch‑Datei haben, die nicht im game‑patches Repository enthalten ist.</value>
   </data>
   <data name="LibraryGameButton_ConfigurePatchesTooltip" xml:space="preserve">
-    <value>Omogućuje korisniku omogućavanje/onemogućavanje instaliranih zakrpa za igru</value>
+    <value>Ermöglicht dem Benutzer, installierte Spiel Patches zu aktivieren/deaktivieren</value>
   </data>
   <data name="LibraryGameButton_RemovePatchesTooltip" xml:space="preserve">
-    <value>Omogućuje korisniku uklanjanje instaliranih zakrpa za igru</value>
+    <value>Ermöglicht dem Benutzer, die installierten Spiel Patches zu entfernen</value>
   </data>
   <data name="LibraryGameButton_SteamShortcutTooltip" xml:space="preserve">
-    <value>Ovo će dodati prečac svakom Steam računu koji je prijavljen na korisnikovom računalu.</value>
+    <value>Dies fügt für jedes Steam Konto, das auf dem Computer des Benutzers angemeldet ist, eine Verknüpfung hinzu.</value>
   </data>
   <data name="LibraryGameButton_ChangeGamePathTooltip" xml:space="preserve">
-    <value>Omogućuje korisniku promjenu lokacije igre {0}
-Korisno ako je igra premještena na drugu lokaciju</value>
+    <value>Ermöglicht dem Benutzer, den Speicherort von  {0} zu ändern
+	nützlich, wenn das Spiel an einen anderen Ort verschoben wurde.</value>
   </data>
   <data name="LibraryGameButton_RemoveGameHeaderTooltip" xml:space="preserve">
-    <value>Briše igru iz Xenia Managera</value>
+    <value>Löscht das Spiel aus dem Xenia Manager</value>
   </data>
   <data name="LibraryPage_DisplayHideOptionsTooltip" xml:space="preserve">
-    <value>Prikaži/Sakrij stvari poput naslova igre ili ocjene kompatibilnosti na kutijama igara</value>
+    <value>Zeigt/Verbirgt Elemente wie den Spieletitel oder die Kompatibilitätsbewertung auf den Boxarts.</value>
   </data>
   <data name="LibraryPage_DisplayGameTitleTooltip" xml:space="preserve">
-    <value>Prikaži/Sakrij naziv igre na kutiji igre</value>
+    <value>Zeigt/Verbirgt den Spieletitel auf dem Boxart des Spiels.</value>
   </data>
   <data name="LibraryPage_DisplayGameCompatibilityRatingTooltip" xml:space="preserve">
-    <value>Prikaži/sakrij ocjenu kompatibilnosti igre na kutiji</value>
+    <value>Zeigt/Verbirgt die Kompatibilitätsbewertung des Spiels auf dem Boxart.</value>
   </data>
   <data name="LibraryPage_LibraryViewChangerTooltip" xml:space="preserve">
-    <value>Promjene između prikaza mreže i popisa za biblioteku igara</value>
+    <value>Wechselt zwischen der Raster und Listenansicht für die Bibliothek.</value>
   </data>
   <data name="LibraryPage_ScanDirectoryTooltip" xml:space="preserve">
-    <value>Skenira odabrani direktorij za igre
-Više informacija o korištenju potražite na Wiki stranici</value>
+    <value>Durchsucht das ausgewählte Verzeichnis nach Spielen.  
+Weitere Informationen zur Verwendung finden Sie im [Wiki].</value>
   </data>
   <data name="LibraryPage_AddGameTooltip" xml:space="preserve">
-    <value>Otvara dijalog datoteke gdje korisnik odabire igru koju će dodati u Xenia Manager</value>
+    <value>Öffnet einen Dateidialog, in dem der Benutzer das Spiel auswählt, das dem Xenia  Manager hinzugefügt werden soll.</value>
   </data>
   <data name="AboutPage_WebsiteButtonTooltip" xml:space="preserve">
-    <value>Otvara Xenia Manager Web Stranicu</value>
+    <value>Öffnet die Website des Xenia  Managers</value>
   </data>
   <data name="AboutPage_GithubButtonTooltip" xml:space="preserve">
-    <value>Otvara Github repozitorij Xenia Managera</value>
+    <value>Öffnet das GitHub Repository des Xenia  Managers.</value>
   </data>
   <data name="ManagePage_EmulatorManagementHeaderText" xml:space="preserve">
-    <value>Upravljanje emulatorom</value>
+    <value>Emulator Verwaltung</value>
   </data>
   <data name="ManagePage_EmulatorManagementHeaderTooltip" xml:space="preserve">
-    <value>Instalirajte i upravljajte različitim verzijama Xenia emulatora</value>
+    <value>Installiert und verwaltet verschiedene Versionen des Xenia Emulators.</value>
   </data>
   <data name="ManagePage_ExportLogFile" xml:space="preserve">
-    <value>Izvoz logova</value>
+    <value>Exportiert die Protokolldatei.</value>
   </data>
   <data name="ManagePage_ConfigurationHeaderText" xml:space="preserve">
-    <value>Konfiguracija</value>
+    <value>Konfiguration</value>
   </data>
   <data name="ManagePage_ConfigurationHeaderTooltip" xml:space="preserve">
-    <value>Prilagodite ponašanje emulatora i organizaciju datoteka</value>
+    <value>Passt das Verhalten des Emulators und die Organisation der Dateien an.</value>
   </data>
   <data name="ManagePage_ToolsUtilitiesHeaderText" xml:space="preserve">
-    <value>Alati i uslužni programi</value>
+    <value>Werkzeuge und Hilfsprogramme</value>
   </data>
   <data name="ManagePage_ToolsUtilitiesHeaderTooltip" xml:space="preserve">
-    <value>Dodatni alati i mogućnosti održavanja</value>
+    <value>Zusätzliche Werkzeuge und Wartungsoptionen</value>
   </data>
   <data name="ManagePage_ExportLogFileTooltip" xml:space="preserve">
-    <value>Omogućuje korisniku izvoz Xenia logova na radnu površinu
-Korisno ako korisnik ima problema s rušenjem sustava i želi zatražiti pomoć na Xenia Discord serveru.</value>
+    <value>Ermöglicht es dem Benutzer, die Xenia‑Protokolle auf den Desktop zu exportieren 
+	nützlich, wenn Abstürze auftreten und der Benutzer im Xenia‑Discord‑Server um Hilfe bitten möchte.</value>
   </data>
   <data name="ManagePage_UpdateGameControllerDatabaseTooltip" xml:space="preserve">
-    <value>Ažurira bazu podataka SDL kontrolera igara koju koristi Xenia</value>
+    <value>Aktualisiert die von Xenia verwendete SDL Game Controller Datenbank.</value>
   </data>
   <data name="XeniaSettingsPage_ResetSettingsButtonTooltip" xml:space="preserve">
-    <value>Kopira sve postavke iz zadane konfiguracijske datoteke u trenutno odabranu konfiguraciju igre.
-Ovo samo čita postavke iz zadanog profila u korisničko sučelje i ne sprema promjene.</value>
+    <value>Kopiert alle Einstellungen aus der Standard‑Konfigurationsdatei in die aktuell ausgewählte Spielkonfiguration. 
+	Dabei werden die Einstellungen nur aus dem Standardprofil in die Benutzeroberfläche 
+	übernommen – die Änderungen werden nicht gespeichert.</value>
   </data>
   <data name="XeniaSettingsPage_OptimizeSettingsButtonTooltip" xml:space="preserve">
-    <value>Traži optimizirane postavke u repozitoriju i primjenjuje ih
-Za spremanje promjena pritisnite gumb "Spremi promjene"</value>
+    <value>Sucht im Repository nach den optimierten Einstellungen und wendet sie an. 
+	Um die Änderungen zu speichern, klicken Sie auf die Schaltfläche "Änderungen speichern"</value>
   </data>
   <data name="XeniaSettingsPage_OpenInEditorButtonTooltip" xml:space="preserve">
-    <value>Otvara konfiguracijsku datoteku odabranog profila u uređivaču teksta
-Molimo zatvorite uređivač teksta kada završite s promjenama
-Ovo je namijenjeno naprednim korisnicima</value>
+    <value>Öffnet die Konfigurationsdatei des ausgewählten Profils in einem Texteditor.  
+Bitte schließen Sie den Texteditor, sobald Sie die Änderungen abgeschlossen haben.  
+Diese Funktion ist für fortgeschrittene Benutzer gedacht.</value>
   </data>
   <data name="XeniaSettingsPage_SaveSettingsButtonTooltip" xml:space="preserve">
-    <value>Sprema promjene postavki</value>
+    <value>Speichert die Änderungen an den Einstellungen.</value>
   </data>
   <data name="ContentViewer_OpenFolderButtonTooltip" xml:space="preserve">
-    <value>Otvara odabranu mapu sadržaja u programu Windows Explorer</value>
+    <value>Öffnet den ausgewählten Inhaltsordner im Windows Explorer.</value>
   </data>
   <data name="ContentViewer_DeleteButtonTooltip" xml:space="preserve">
-    <value>Briše odabranu stavku u TreeViewu</value>
+    <value>Löscht das im TreeView ausgewählte Element.</value>
   </data>
   <data name="ContentViewer_ExportSavesButtonTooltip" xml:space="preserve">
-    <value>Izvozi spremljene datoteke u zip mapu</value>
+    <value>Exportiert die Spielstanddateien in einen ZIP‑Ordner.</value>
   </data>
   <data name="ContentViewer_ImportSavesButtonTooltip" xml:space="preserve">
-    <value>Uvozi spremljenu igru (Mora imati određenu strukturu mapa, sličnu spremljenim igrama koje se nalaze u Xenia repozitoriju spremljenih igara)</value>
+    <value>Importiert den Spielstand (muss eine bestimmte Ordnerstruktur haben, ähnlich wie die Spielstände im Game‑Saves‑Repository von Xenia).</value>
   </data>
   <data name="ContentViewer_DeleteProfileButtonTooltip" xml:space="preserve">
-    <value>Briše odabrani profil igrača</value>
+    <value>Löscht das ausgewählte Spielerprofil.</value>
   </data>
   <data name="MessageBox_DeleteGamerProfileTitle" xml:space="preserve">
-    <value>Izbriši profil igrača</value>
+    <value>Löscht das Xenia Spielerprofil.</value>
   </data>
   <data name="MessageBox_DeleteGamerProfileText" xml:space="preserve">
-    <value>Želite li izbrisati trenutno odabrani profil igrača ({0})?</value>
+    <value>Möchten Sie das aktuell ausgewählte Spielerprofil ({0}) wirklich löschen?</value>
   </data>
   <data name="MessageBox_SwitchNightlyBuildTitle" xml:space="preserve">
-    <value>Promijenjena verzija Xenia {0}</value>
+    <value>Hat auf Xenia‑Build {0} umgeschaltet.</value>
   </data>
   <data name="MessageBox_SwitchNightlyBuildText" xml:space="preserve">
-    <value>Promijenili ste vrstu verzije za Xenia {0}.
-Želite li provjeriti ažuriranja?</value>
+    <value>Sie haben den Build‑Typ für Xenia {0} gewechselt.  
+Möchten Sie nach Updates suchen?</value>
   </data>
   <data name="ManagePage_BuildChannel" xml:space="preserve">
-    <value>Kanal distribucije</value>
+    <value>Build Kanal</value>
   </data>
   <data name="ManagePage_BuildChannelTooltip" xml:space="preserve">
-    <value>Omogući najnovije verzije za najnovije funkcije i popravke</value>
+    <value>Aktiviert Nightly Builds, um die neuesten Funktionen und Fehlerbehebungen zu erhalten.</value>
   </data>
   <data name="MessageBox_XeniaSettingsResetText" xml:space="preserve">
-    <value>Postavke Xenia {0} su resetirane.</value>
+    <value>Die Xenia‑Einstellungen für {0} wurden zurückgesetzt.</value>
   </data>
   <data name="MessageBox_MissingOptimizedSettingsText" xml:space="preserve">
-    <value>{0} trenutno nema optimiziranih postavki.</value>
+    <value>Für {0} sind derzeit keine optimierten Einstellungen vorhanden.</value>
   </data>
   <data name="MessageBox_SuccessOptimizedSettingsText" xml:space="preserve">
-    <value>Optimizirane postavke:
-{0}
-su uspješno učitane.
-Da biste ih primijenili, kliknite gumb 'Spremi promjene'.</value>
+    <value>Optimierte Einstellungen:  
+{0}  
+wurden erfolgreich geladen.  
+Um sie anzuwenden, klicken Sie bitte auf die Schaltfläche "Änderungen speichern".</value>
   </data>
   <data name="MessageBox_GameNotSelectedErrorText" xml:space="preserve">
-    <value>Nije odabrana nijedna igra.</value>
+    <value>Es wurde kein Spiel ausgewählt.</value>
   </data>
   <data name="MessageBox_SuccessSaveChangesText" xml:space="preserve">
-    <value>Promjene konfiguracijskih datoteka su spremljene.</value>
+    <value>Änderungen an den Konfigurationsdateien wurden gespeichert.</value>
   </data>
   <data name="XeniaSettingsPage_NetplaySettingsTitleText" xml:space="preserve">
     <value>Netplay</value>
   </data>
   <data name="XeniaSettingsPage_NetplayApiAddressSettingText" xml:space="preserve">
-    <value>Adresa API-ja</value>
+    <value>API Addresse</value>
   </data>
   <data name="XeniaSettingsPage_NetplayApiAddressSettingTooltip" xml:space="preserve">
-    <value>Adresa koja upućuje na Xenia WebServices, što je potrebno za online igranje</value>
+    <value>Adresse, die auf die Xenia WebServices verweist und für das Online‑Spielen erforderlich ist.</value>
   </data>
   <data name="XeniaSettingsPage_NetplayNetworkModeSettingText" xml:space="preserve">
-    <value>Mrežni Način Rada</value>
+    <value>Netzwerk Modus</value>
   </data>
   <data name="XeniaSettingsPage_NetplayNetworkModeSettingTooltip" xml:space="preserve">
-    <value>Omogućuje vam odabir između različitih vrsta mreže</value>
+    <value>Ermöglicht es Ihnen, zwischen verschiedenen Netzwerktypen zu wählen.</value>
   </data>
   <data name="XeniaSettingsPage_NetplayUPnPSettingText" xml:space="preserve">
-    <value>UPnP</value>
+    <value>UPnP
+(Universal Plug and Play)</value>
   </data>
   <data name="XeniaSettingsPage_NetplayUPnPSettingTooltip" xml:space="preserve">
-    <value>Mora biti omogućeno za hostiranje sesija</value>
+    <value>Muss aktiviert sein, um Sitzungen zu hosten.</value>
   </data>
   <data name="XeniaSettingsPage_NetplayXLinkKaiSystemLinkHacksSettingText" xml:space="preserve">
-    <value>Hakovi za XLink Kai Systemlink</value>
+    <value>XLink Kai Systemlink Hacks</value>
   </data>
   <data name="XeniaSettingsPage_NetplayXLinkKaiSystemLinkHacksSettingTooltip" xml:space="preserve">
-    <value>Omogući hakove za podršku za XLink Kai</value>
+    <value>Aktiviert Hacks zur Unterstützung von XLink  Kai.</value>
   </data>
   <data name="SettingsPage_BackdropSelector" xml:space="preserve">
-    <value>Pozadina prozora</value>
+    <value>Fenster Hintergrund</value>
   </data>
   <data name="SettingsPage_BackdropSelectorTooltip" xml:space="preserve">
-    <value>Mijenja pozadinu prozora</value>
+    <value>Ändert den Fenster Hintergrund.</value>
   </data>
   <data name="SettingsPage_AccentColorSelector" xml:space="preserve">
-    <value>Naglasna boja</value>
+    <value>Akzentfarbe</value>
   </data>
   <data name="SettingsPage_AccentColorSelectorTooltip" xml:space="preserve">
-    <value>Mijenja boju naglaska koju koristi Xenia Manager</value>
+    <value>Ändert die in Xenia  Manager verwendete Akzentfarbe.</value>
   </data>
   <data name="DownloadProgress_Text" xml:space="preserve">
-    <value>Napredak preuzimanja:</value>
+    <value>Download Fortschritt:</value>
   </data>
   <data name="ToggleVersionSwitch_Stable" xml:space="preserve">
-    <value>Stabilno</value>
+    <value>Stabil</value>
   </data>
   <data name="ToggleVersionSwitch_Experimental" xml:space="preserve">
-    <value>Eksperimentalno</value>
+    <value>Experimentell</value>
   </data>
   <data name="ToggleVersionSwitch_Nightly" xml:space="preserve">
-    <value>Noćno</value>
+    <value>Nightly</value>
   </data>
   <data name="AboutPage_XeniaProjectTitle" xml:space="preserve">
-    <value>Xenia Project</value>
+    <value>Xenia Projekt</value>
   </data>
   <data name="AboutPage_XeniaProjectTooltip" xml:space="preserve">
-    <value>- Originalni Xbox 360 emulator</value>
+    <value> - Original Xbox 360 Emulator</value>
   </data>
   <data name="AboutPage_XeniaCanaryTitle" xml:space="preserve">
     <value>Xenia Canary</value>
   </data>
   <data name="AboutPage_XeniaCanaryTooltip" xml:space="preserve">
-    <value>- Eksperimentalna verzija s najnovijim značajkama</value>
+    <value> - Experimenteller Build mit den neuesten Funktionen.</value>
   </data>
   <data name="AboutPage_XeniaNetplayTitle" xml:space="preserve">
     <value>Xenia Netplay</value>
@@ -1344,313 +1354,216 @@ Da biste ih primijenili, kliknite gumb 'Spremi promjene'.</value>
     <value>Xenia Mousehook</value>
   </data>
   <data name="AboutPage_XeniaNetplayTooltip" xml:space="preserve">
-    <value>- Podrška za mrežno igranje</value>
+    <value> - Unterstützung für Mehrspieler Gaming.</value>
   </data>
   <data name="AboutPage_XeniaMousehookTooltip" xml:space="preserve">
-    <value>- Podrška za tipkovnicu i miš</value>
+    <value> - Tastatur- &amp; Maussupport</value>
   </data>
   <data name="AboutPage_Xbox360EmulationHeader" xml:space="preserve">
-    <value>Xbox 360 Emulacija</value>
+    <value>Xbox 360 Emulation</value>
   </data>
   <data name="AboutPage_LibrariesHeader" xml:space="preserve">
-    <value>Biblioteke</value>
+    <value>Bibliotheken</value>
   </data>
   <data name="AboutPage_WpfUiTitle" xml:space="preserve">
     <value>WPF UI</value>
   </data>
   <data name="AboutPage_WpfUiTooltip" xml:space="preserve">
-    <value>- Moderne WPF kontrole i teme</value>
+    <value> - Moderne WPF‑Steuerelemente und -Theming</value>
   </data>
   <data name="AboutPage_NvApiWrapperTitle" xml:space="preserve">
     <value>NvAPIWrapper</value>
   </data>
   <data name="AboutPage_NvApiWrapperTooltip" xml:space="preserve">
-    <value>- Konfiguracija prikaza upravljačkog programa NVIDIA GPU-a</value>
+    <value> - NVIDIA GPU Treiber Anzeige­konfiguration</value>
   </data>
   <data name="AboutPage_MagickNetTooltip" xml:space="preserve">
-    <value>- Obrada i manipulacija slikama</value>
+    <value> - Bildverarbeitung und ‑bearbeitung</value>
   </data>
   <data name="AboutPage_MagickNetTitle" xml:space="preserve">
     <value>Magick.NET</value>
   </data>
   <data name="AboutPage_SerilogTooltip" xml:space="preserve">
-    <value>- Strukturirani okvir za bilježenje</value>
+    <value> - Framework für strukturiertes Logging</value>
   </data>
   <data name="AboutPage_SerilogTitle" xml:space="preserve">
     <value>Serilog</value>
   </data>
   <data name="AboutPage_TomlynTooltip" xml:space="preserve">
-    <value>- parser konfiguracijske datoteke TOML</value>
+    <value> - TOML Konfigurationsdatei Parser</value>
   </data>
   <data name="AboutPage_TomlynTitle" xml:space="preserve">
     <value>Tomlyn</value>
   </data>
   <data name="AboutPage_Xbox360ToolkitTooltip" xml:space="preserve">
-    <value>- Parsiranje informacija o igri</value>
+    <value> - Spieldetails Parsing</value>
   </data>
   <data name="AboutPage_Xbox360ToolkitTitle" xml:space="preserve">
     <value>Xbox 360 Toolkit</value>
   </data>
   <data name="AboutPage_FooterNoteText" xml:space="preserve">
-    <value>Ova aplikacija nije povezana, odobrena ili sponzorirana od strane tvrtke Microsoft Corporation ili projekta Xenia na bilo koji način. Svi zaštitni znakovi, logotipi i robne marke vlasništvo su njihovih vlasnika.
-Xbox 360 je registrirani zaštitni znak tvrtke Microsoft Corporation u Sjedinjenim Američkim Državama i/ili drugim zemljama.
-Xenia je registrirani zaštitni znak projekta Xenia.
-Sve reference na ove ili druge zaštitne znakove isključivo su u svrhu identificiranja kompatibilnosti ili funkcionalnosti i ne podrazumijevaju bilo kakvu povezanost s nositeljima zaštitnih znakova ili odobrenje od strane njih.
-Ovaj softver namijenjen je samo u obrazovne i informativne svrhe. Ne sadrži niti distribuira nikakav sadržaj zaštićen autorskim pravima u vlasništvu tvrtke Microsoft Corporation ili bilo koje treće strane. Korisnici su isključivo odgovorni za osiguravanje da je njihova upotreba ovog softvera u skladu sa svim važećim zakonima, uključujući zakone o autorskim pravima i licenciranju.
-Svaka upotreba ove aplikacije za pokretanje ili interakciju s vlasničkim softverom ili firmverom mora se provoditi u okviru relevantnih ugovora o licenci za krajnjeg korisnika (EULA). Razvojni programeri i distributeri ove aplikacije ne odobravaju niti podržavaju piratstvo u bilo kojem obliku.
-Ova aplikacija pruža se "kakva jest" bez ikakvog jamstva, izričitog ili implicitnog. Koristite na vlastitu odgovornost.</value>
+    <value>Diese Anwendung steht in keinerlei Verbindung zu, wird nicht unterstützt oder gesponsert von der Microsoft Corporation oder dem Xenia‑Projekt. Alle Marken, Logos und Markennamen sind Eigentum ihrer jeweiligen Inhaber.
+Xbox  360 ist eine eingetragene Marke der Microsoft Corporation in den Vereinigten Staaten und/oder anderen Ländern.
+Xenia ist eine eingetragene Marke des Xenia Projekts.
+Jegliche Bezugnahmen auf diese oder andere Marken dienen ausschließlich der Identifizierung von Kompatibilität oder Funktionalität und implizieren keine Verbindung oder Billigung durch die Markeninhaber.
+Diese Software ist ausschließlich für Bildungs‑ und Informationszwecke bestimmt. Sie enthält oder verbreitet keinerlei urheberrechtlich geschützte Inhalte, die Eigentum der Microsoft Corporation oder Dritter sind. Die Nutzer sind allein dafür verantwortlich, sicherzustellen, dass ihre Verwendung dieser Software allen geltenden Gesetzen, einschließlich Urheber‑ und Lizenzgesetzen, entspricht.
+Jegliche Nutzung dieser Anwendung zum Ausführen oder Interagieren mit proprietärer Software oder Firmware muss im Rahmen der entsprechenden Endbenutzer‑Lizenzvereinbarungen (EULAs) erfolgen. Die Entwickler und Vertreiber dieser Anwendung dulden oder unterstützen keinerlei Form von Piraterie.
+Diese Anwendung wird „wie besehen“ ohne jegliche ausdrückliche oder stillschweigende Gewährleistung bereitgestellt. Nutzung auf eigenes Risiko.</value>
   </data>
   <data name="AboutPage_SteamKit2Title" xml:space="preserve">
     <value>SteamKit2</value>
   </data>
   <data name="AboutPage_SteamKit2Tooltip" xml:space="preserve">
-    <value>- Podrška za kreiranje prečaca na Steamu</value>
+    <value>- Steam Netzwerk Integration</value>
   </data>
   <data name="MessageBox_PatchesInstalledTitle" xml:space="preserve">
-    <value>Zakrpe instalirane</value>
+    <value>Installierte Patches</value>
   </data>
   <data name="MessageBox_PatchesInstalledText" xml:space="preserve">
-    <value>Zakrpe su instalirane za {0}.</value>
+    <value>Patches wurden für {0} installiert.</value>
   </data>
   <data name="MessageBox_AdditionalPatchesTitle" xml:space="preserve">
-    <value>Zakrpe dodane</value>
+    <value>Patches hinzugefügt</value>
   </data>
   <data name="MessageBox_AdditionalPatchesTooltip" xml:space="preserve">
-    <value>{0}\nDodane su dodatne zakrpe za {1}.</value>
+    <value>{0}\nZusätzliche Patches wurden für {1} hinzugefügt.</value>
   </data>
   <data name="MessageBox_PatchesRemovedTitle" xml:space="preserve">
-    <value>Zakrpe uklonjene</value>
+    <value>Patches entfernt</value>
   </data>
   <data name="MessageBox_PatchesRemovedText" xml:space="preserve">
-    <value>Zakrpe su uklonjene za {0}.</value>
+    <value>Patches wurden für {0} entfernt.</value>
   </data>
   <data name="MessageBox_AdministratorRequiredText" xml:space="preserve">
-    <value>Za ovu značajku potrebno je omogućiti administratorska prava.
-Pokrenite Xenia Manager kao administrator da biste koristili značajku.</value>
+    <value>Für diese Funktion müssen Administratorrechte aktiviert sein.  
+Bitte führen Sie Xenia Manager als Administrator aus, um die Funktion zu nutzen.</value>
   </data>
   <data name="MessageBox_InvalidInput" xml:space="preserve">
-    <value>Nevažeći unos ({0})</value>
+    <value>Ungültige Eingabe ({0})</value>
   </data>
   <data name="MessageBox_InvalidInputAudioMaxQueuedFrames" xml:space="preserve">
-    <value>Maksimalni broj audio okvira u redu čekanja mora biti broj između 4 i 64.\nPostavljanje zadane vrijednosti je 8.</value>
+    <value>Audio „Max Queued Frames“ muss eine Zahl zwischen 4 und 64 sein.\nStandardwert 8 wird festgelegt.</value>
   </data>
   <data name="MessageBox_InvalidInputQueryOcclusionSample" xml:space="preserve">
-    <value>Primjer okluzije upita {0} Prag mora biti broj.\nPostavljanje zadane vrijednosti {1}.</value>
+    <value>Abfrage‑Okklusions‑Sample‑{0}‑Schwellenwert muss eine Zahl sein.\nStandardwert {1} wird festgelegt.</value>
   </data>
   <data name="MessageBox_InvalidInputInternalDisplayResolution" xml:space="preserve">
-    <value>Nevažeći unos za prilagođenu internu rezoluciju zaslona {0}.\nPostavljanje na zadanu vrijednost ({1})</value>
+    <value>Ungültige Eingabe für benutzerdefinierte interne Anzeigeauflösung {0}.\nStandardwert ({1}) wird festgelegt.</value>
   </data>
   <data name="MessageBox_GameNotSelected" xml:space="preserve">
-    <value>Niste odabrali igru.</value>
+    <value>Sie haben kein Spiel ausgewählt.</value>
   </data>
   <data name="MessageBox_MissingDirectory" xml:space="preserve">
-    <value>Nedostaje Direktorij</value>
+    <value>Fehlendes Verzeichnis</value>
   </data>
   <data name="MessageBox_MissingDirectoryText" xml:space="preserve">
-    <value>Ova igra nema direktorij pod nazivom '{0}'</value>
+    <value>Dieses Spiel hat kein Verzeichnis mit dem Namen '{0}'.</value>
   </data>
   <data name="MessageBox_SaveExportedToDesktop" xml:space="preserve">
-    <value>Spremljena igra za {0} izvezena je na računalo</value>
+    <value>Die Speicherdatei für {0} wurde auf den Desktop exportiert.</value>
   </data>
   <data name="MessageBox_Duplicate" xml:space="preserve">
     <value>Duplikat</value>
   </data>
   <data name="MessageBox_DuplicateTitle" xml:space="preserve">
-    <value>Ovaj naslov već zauzima druga igra.
-Molimo promijenite ga.</value>
+    <value>Dieser Titel wird bereits von einem anderen Spiel verwendet. Bitte ändern Sie ihn.</value>
   </data>
   <data name="MessageBox_SuccessGamePatchInstall" xml:space="preserve">
-    <value>Zakrpa za {0} je instalirana.</value>
+    <value>{0} Patch wurde installiert.</value>
   </data>
   <data name="MessageBox_OverAllowedTextLimit" xml:space="preserve">
-    <value>Prekoračili ste dopušteni broj znakova za ovo polje.</value>
+    <value>Sie haben das zulässige Zeichenlimit für dieses Feld überschritten.</value>
   </data>
   <data name="MessageBox_MissingXenia" xml:space="preserve">
-    <value>Fali Xenia Emulator</value>
+    <value>Xenia fehlt</value>
   </data>
   <data name="MessageBox_InstallXeniaToAccess" xml:space="preserve">
-    <value>Molimo instalirajte verziju Xenia Emulatora za pristup ovome.</value>
+    <value>Bitte installieren Sie eine Version von Xenia, um darauf zuzugreifen.</value>
   </data>
   <data name="MessageBox_MissingEmulatorInfo" xml:space="preserve">
-    <value>Nedostaju informacije o Xenia {0} emulatoru. Molimo vas da instalirate Xenia {0}.</value>
+    <value>Xenia {0} Emulatorinformationen fehlen. Bitte installieren Sie Xenia {0}bevor Sie ein Update durchführen.</value>
   </data>
   <data name="MessageBox_InputRequired" xml:space="preserve">
-    <value>Potreban unos</value>
+    <value>Eingabe erforderlich</value>
   </data>
   <data name="MessageBox_InputRequiredText" xml:space="preserve">
-    <value>Pritisnite tipku ili tipku miša za povezivanje s '{0}' nakon zatvaranja ovog prozora.</value>
+    <value>Drücken Sie nach dem Schließen dieses Fensters eine Taste oder Maustaste, um sie an '{0}' zu binden.</value>
   </data>
   <data name="MessageBox_DuplicateBinding" xml:space="preserve">
-    <value>Tipka {0} je već dodjeljena {1}.</value>
+    <value>Die Belegung '{0}' ist bereits '{1}' zugewiesen.</value>
   </data>
   <data name="MessageBox_KeybindingAdded" xml:space="preserve">
-    <value>Dodana tipka</value>
+    <value>Tastenbelegung hinzugefügt</value>
   </data>
   <data name="MessageBox_KeybindingAddedText" xml:space="preserve">
-    <value>Dodan prečac: {0} = {1}</value>
+    <value>Belegung hinzugefügt: {0} = {1}</value>
   </data>
   <data name="MousehookControlsEditor_DeleteKeybinding" xml:space="preserve">
-    <value>Izbriši prečac</value>
+    <value>Tastenbelegung löschen</value>
   </data>
   <data name="MousehookControlsEditor_AddKeybindingTooltip" xml:space="preserve">
-    <value>Dodaj novi prečac</value>
+    <value>Neue Tastenbelegung hinzufügen</value>
   </data>
   <data name="ManagePage_RedownloadMousehookBindings" xml:space="preserve">
-    <value>Ponovno preuzmi Mousehook prečace</value>
+    <value>Mousehook Belegungen erneut herunterladen</value>
   </data>
   <data name="ManagePage_RedownloadMousehookBindingsTooltip" xml:space="preserve">
-    <value>Ponovno preuzima Xenia Mousehook prečace.
-Korisno ako su prečaci neispravni.</value>
+    <value>Lädt die Xenia Mousehook Belegungen erneut herunter.  
+Nützlich, falls Belegungen beschädigt wurden.</value>
   </data>
   <data name="MessageBox_SuccessRedownloadMousehookBindingsText" xml:space="preserve">
-    <value>Uspješno ponovno preuzeti prečaci za Xenia Mousehook</value>
+    <value>Mousehook Belegungen erfolgreich erneut heruntergeladen.</value>
   </data>
   <data name="SettingsPage_DoubleClickOpenTooltip" xml:space="preserve">
-    <value>Omogućite ovu opciju kako biste zahtijevali dvostruki klik za otvaranje igre iz knjižnice.
-Kada je onemogućena, igre će se pokretati jednim klikom.</value>
+    <value>Aktivieren Sie diese Option, um zum Öffnen eines Spiels aus der Bibliothek einen Doppelklick zu erfordern.  
+Wenn sie deaktiviert ist, werden Spiele stattdessen mit einem einfachen Klick gestartet.</value>
   </data>
   <data name="SettingsPage_DoubleClickOpen" xml:space="preserve">
-    <value>Dvostruki klik za otvaranje igre</value>
+    <value>Doppelklick zum Öffnen des Spiels</value>
   </data>
   <data name="OpenFileDialog_SelectDirectoryTitle" xml:space="preserve">
-    <value>Odaberite direktorij</value>
+    <value>Verzeichnis auswählen</value>
   </data>
   <data name="ContentViewer_EditProfileButtonTooltip" xml:space="preserve">
-    <value>Promijeni nadimak</value>
+    <value>Gamertag bearbeiten</value>
   </data>
   <data name="MessageBox_NotImplementedTitle" xml:space="preserve">
-    <value>Nije implementirano</value>
+    <value>Nicht implementiert</value>
   </data>
   <data name="MessageBox_NotImplementedText" xml:space="preserve">
-    <value>Ova značajka još nije implementirana.</value>
+    <value>Diese Funktion ist noch nicht implementiert.</value>
   </data>
   <data name="ProfileEditor_ChangeGamertag" xml:space="preserve">
-    <value>Promijeni Nadimak</value>
+    <value>Gamertag ändern</value>
   </data>
   <data name="ProfileEditor_ChangeGamertagTooltip" xml:space="preserve">
-    <value>Unesi svoj novi nadimak.</value>
+    <value>Geben Sie unten Ihren neuen Gamertag ein.</value>
   </data>
   <data name="MessageBox_AchievementChangesSavedSuccess" xml:space="preserve">
-    <value>Promjene postignuća uspješno su primijenjene.</value>
+    <value>Änderungen an den Erfolgen wurden erfolgreich übernommen.</value>
   </data>
   <data name="MessageBox_AchievementChangesSavedFailed" xml:space="preserve">
-    <value>Došlo je do pogreške prilikom primjene promjena na postignuća.</value>
+    <value>Beim Anwenden der Änderungen an den Erfolgen ist ein Fehler aufgetreten.</value>
   </data>
   <data name="MessageBox_SecretUnlocked" xml:space="preserve">
-    <value>Tajna otključana</value>
+    <value>Geheimnis freigeschaltet</value>
   </data>
   <data name="MessageBox_AchievementUnlockerEnabled" xml:space="preserve">
-    <value>Omogućen je otključivač postignuća.</value>
+    <value>Erfolgs Freischalter wurde aktiviert.</value>
   </data>
   <data name="ContentViewer_ButtonUnlockAllAchievementsTooltip" xml:space="preserve">
-    <value>Otključaj sva postignuća.</value>
+    <value>Alle Erfolge freischalten</value>
   </data>
   <data name="ContentViewer_ButtonLockAllAchievementsTooltip" xml:space="preserve">
-    <value>Zaključaj sva postignuća.</value>
+    <value>Alle Erfolge sperren</value>
   </data>
   <data name="ContentViewer_ButtonSaveAchievementChangesTooltip" xml:space="preserve">
-    <value>Spremi promjene napravljene na postignućima.</value>
+    <value>Änderungen an den Erfolgen speichern</value>
   </data>
   <data name="MessageBox_Warning" xml:space="preserve">
-    <value>Upozorenje</value>
+    <value>Warnung</value>
   </data>
   <data name="MessageBox_FailedGamecontrollerdbDownload" xml:space="preserve">
-    <value>Neuspješno preuzimanje gamecontrollerdb.txt datoteke. Neki kontroleri možda ne budu radili kako treba (pomoću SDL načina unosa).</value>
-  </data>
-  <data name="MessageBox_NoXeniaInstalled" xml:space="preserve">
-    <value>Nema instalirane verzije Xenia.&#10;Instaliraj Xenia prije nastavka.</value>
-  </data>
-  <data name="MessageBox_XeniaSelectionCanceled" xml:space="preserve">
-    <value>Odabir verzije Xenia je otkazan od strane korisnika.</value>
-  </data>
-  <data name="MessageBox_XeniaCurrentlyUpdating" xml:space="preserve">
-    <value>Xenia se trenutno ažurira, molimo pričekajte dok se ažuriranje ne završi.</value>
-  </data>
-  <data name="MessageBox_SymbolicLinkCreationFailed" xml:space="preserve">
-    <value>Proces stvaranja simboličke veze nije uspio.</value>
-  </data>
-  <data name="MessageBox_FailedToStartEmulator" xml:space="preserve">
-    <value>Pokretanje emulatora nije uspjelo.</value>
-  </data>
-  <data name="MessageBox_WindowsBuildAssetMissing" xml:space="preserve">
-    <value>Windows build asset nedostaje u release-u</value>
-  </data>
-  <data name="MessageBox_FailedToOpenConfigWithDefaultApp" xml:space="preserve">
-    <value>Neuspješno otvaranje konfiguracijske datoteke s zadanom aplikacijom.</value>
-  </data>
-  <data name="MessageBox_FailedToOpenConfigWithNotepad" xml:space="preserve">
-    <value>Neuspješno otvaranje konfiguracijske datoteke s Notepad-om.</value>
-  </data>
-  <data name="MessageBox_MissingImplementationForButton" xml:space="preserve">
-    <value>Nedostaje implementacija za ovaj gumb.</value>
-  </data>
-  <data name="Settings_Custom" xml:space="preserve">
-    <value>Prilagođeno</value>
-  </data>
-  <data name="Settings_Any" xml:space="preserve">
-    <value>Bilo koji</value>
-  </data>
-  <data name="Settings_Auto" xml:space="preserve">
-    <value>Automatski</value>
-  </data>
-  <data name="Settings_None" xml:space="preserve">
-    <value>Nijedan</value>
-  </data>
-  <data name="Settings_Default" xml:space="preserve">
-    <value>Zadano</value>
-  </data>
-  <data name="Settings_ForceOff" xml:space="preserve">
-    <value>Prisilno isključeno</value>
-  </data>
-  <data name="Settings_ForceOn" xml:space="preserve">
-    <value>Prisilno uključeno</value>
-  </data>
-  <data name="Settings_Adaptive" xml:space="preserve">
-    <value>Prilagodljivo</value>
-  </data>
-  <data name="Settings_Normal" xml:space="preserve">
-    <value>Normalno</value>
-  </data>
-  <data name="Settings_High" xml:space="preserve">
-    <value>Visoko</value>
-  </data>
-  <data name="Settings_Realtime" xml:space="preserve">
-    <value>Stvarno vrijeme</value>
-  </data>
-  <data name="Settings_Disabled" xml:space="preserve">
-    <value>Isključeno</value>
-  </data>
-  <data name="Settings_Enabled" xml:space="preserve">
-    <value>Uključeno</value>
-  </data>
-  <data name="Settings_Passthrough" xml:space="preserve">
-    <value>Prozirno</value>
-  </data>
-  <data name="Settings_Offline" xml:space="preserve">
-    <value>Izvan mreže</value>
-  </data>
-  <data name="Settings_Systemlink" xml:space="preserve">
-    <value>Systemlink</value>
-  </data>
-  <data name="Settings_XboxLive" xml:space="preserve">
-    <value>Xbox Live</value>
-  </data>
-  <data name="Settings_NoLicenses" xml:space="preserve">
-    <value>Nema licence</value>
-  </data>
-  <data name="Settings_FirstLicense" xml:space="preserve">
-    <value>Prva licenca</value>
-  </data>
-  <data name="Settings_AllLicenses" xml:space="preserve">
-    <value>Sve licence</value>
-  </data>
-  <data name="Settings_HalfRefreshRate" xml:space="preserve">
-    <value>1/2 Stope osvježavanja</value>
-  </data>
-  <data name="Settings_ThirdRefreshRate" xml:space="preserve">
-    <value>1/3 Stope osvježavanja</value>
-  </data>
-  <data name="Settings_QuarterRefreshRate" xml:space="preserve">
-    <value>1/4 Stope osvježavanja</value>
+    <value>Fehler beim Herunterladen von gamecontrollerdb.txt. Einige Controller funktionieren im SDL‑Eingabemodus möglicherweise nicht wie erwartet.</value>
   </data>
 </root>
